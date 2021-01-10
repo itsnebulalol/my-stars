@@ -111,6 +111,7 @@
 
 ## Others 
 
+- [Juice](https://github.com/hwittenborn/Juice) - A port of the Papirus icon theme to iOS
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [Doughnut](https://github.com/Decencies/Doughnut) - A utility to easily create Maven and Gradle work-spaces for Mod Coder Pack.
 - [CheatBonker-API](https://github.com/CheatBonker/CheatBonker-API) - 
