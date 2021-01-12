@@ -58,6 +58,7 @@
 
 ## Java 
 
+- [Obf](https://github.com/CheatBreaker/Obf) - Simple Java obfuscation concept designed to be a slight annoyance. Sorry, CheatEngine!
 - [mcef](https://github.com/montoyo/mcef) - Minecraft ChromiumEF (based on JCEF)
 - [Mee6-bypasser](https://github.com/JDiscordBots/Mee6-bypasser) - This Discord Bot bypasses a premium feature of the Bot Mee6, that you can use it for free.
 - [cobaltclient](https://github.com/CobaltClient/cobaltclient) - Minecraft Client using Sponge Mixins
