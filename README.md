@@ -17,6 +17,7 @@
   - [Kotlin](#kotlin)
   - [Others](#others)
   - [PHP](#php)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [Shell](#shell)
   - [Swift](#swift)
@@ -124,6 +125,10 @@
 ## PHP 
 
 - [server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+
+## PowerShell 
+
+- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
 ## Python 
 
