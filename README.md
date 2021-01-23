@@ -118,7 +118,6 @@
 - [awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [Doughnut](https://github.com/Decencies/Doughnut) - A utility to easily create Maven and Gradle work-spaces for Mod Coder Pack.
 - [CheatBonker-API](https://github.com/CheatBonker/CheatBonker-API) - 
-- [Modern-6-SE](https://github.com/NostalgiaBoxRepo/Modern-6-SE) - Modern 6 SE (Stock Edition)
 - [dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ Dark theme for all the things!
 - [npm-script-naming-ideas](https://github.com/trevordmiller/npm-script-naming-ideas) - Ideas for naming npm scripts
 
