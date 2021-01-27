@@ -59,6 +59,7 @@
 
 ## Java 
 
+- [SimpleHUD-Forge](https://github.com/TGMDevelopment/SimpleHUD-Forge) - MinecraftForge mod that displays overlays on your screen with different information (FPS, biome, day, coordinates)
 - [legui](https://github.com/SpinyOwl/legui) - Java OpenGL GUI library. Created for using with latest LWJGL (LWJGL 3).
 - [Obf](https://github.com/CheatBreaker/Obf) - Simple Java obfuscation concept designed to be a slight annoyance. Sorry, CheatEngine!
 - [mcef](https://github.com/montoyo/mcef) - Minecraft ChromiumEF (based on JCEF)
