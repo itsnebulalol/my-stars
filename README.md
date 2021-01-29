@@ -55,6 +55,7 @@
 
 ## HTML 
 
+- [discord-bot-client](https://github.com/Flam3rboy/discord-bot-client) - A custom version of discord, with bot login support
 - [Sorus-Website](https://github.com/SorusClient/Sorus-Website) - 
 
 ## Java 
