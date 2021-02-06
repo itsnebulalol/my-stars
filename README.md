@@ -71,7 +71,6 @@
 - [ForgeBlock](https://github.com/AlephInfinity1/ForgeBlock) - A recreation of Hypixel SkyBlock using Minecraft Forge. Credits to Hypixel for the original game. (Heavily WIP, do not download) NOTE: THIS IS NOT A HELPER MOD, PLEASE DO NOT PLAY ON HYPIXEL WITH THIS MOD INSTALLED
 - [MrCrayfishFurnitureMod](https://github.com/MrCrayfish/MrCrayfishFurnitureMod) - A Furniture Mod for Minecraft. Download ▶
 - [JSON-Config-Thingy](https://github.com/Premiering/JSON-Config-Thingy) - Simplified org.json (org.json wrapper I think they call it)
-- [gopine-client](https://github.com/GopineClient/gopine-client) - 
 - [SupportServerModerationBot](https://github.com/egold555/SupportServerModerationBot) - Bot for my support server
 - [better-friend-list](https://github.com/mdashlw/better-friend-list) - Better friends list for Hypixel.
 - [SkyblockMod](https://github.com/bowser0000/SkyblockMod) - QOL changes that enhances your Hypixel Skyblock experience.
