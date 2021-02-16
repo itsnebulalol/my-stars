@@ -152,6 +152,7 @@
 
 ## TypeScript 
 
+- [hiven.js](https://github.com/hivenapp/hiven.js) - Project on hold until Hiven API v1.0 is moved from alpha to stable | Framework for creating bots on Hiven
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [discord-bot-typescript-autobot](https://github.com/mateothegreat/discord-bot-typescript-autobot) - Discord bot written with TypeScript
 - [Homekit-panel-card](https://github.com/DBuit/Homekit-panel-card) - Homekit panel card for home assistant
