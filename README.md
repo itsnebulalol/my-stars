@@ -130,6 +130,7 @@
 
 ## Python 
 
+- [hivenpy](https://github.com/NexInfinite/hivenpy) - A unofficial hiven wrapper for python
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [spotify-readme](https://github.com/novatorem/spotify-readme) - Dynamic realtime profile ReadMe linked with spotify
 - [MCsniperPY](https://github.com/MCsniperPY/MCsniperPY) - Minecraft namesniper written in python. Feel free to fork.
