@@ -29,7 +29,7 @@
 
 ## C# # 
 
-- [lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated and interactive desktop wallpapers.
+- [lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [rePaper](https://github.com/rocksdanister/rePaper) - Desktop that changes based on weather & time
 
