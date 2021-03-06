@@ -133,7 +133,7 @@
 - [hivenpy](https://github.com/NexInfinite/hivenpy) - A unofficial hiven wrapper for python
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [spotify-readme](https://github.com/novatorem/spotify-readme) - Dynamic realtime profile ReadMe linked with spotify
-- [MCsniperPY](https://github.com/MCsniperPY/MCsniperPY) - Minecraft name sniper written in python. Feel free to fork.
+- [MCsniperPY](https://github.com/MCsniperPY/MCsniperPY) - Minecraft name sniper written in python.
 - [Anonymous](https://github.com/H1R0GH057/Anonymous) - 
 - [byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
