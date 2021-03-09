@@ -41,6 +41,7 @@
 
 ## CSS 
 
+- [Quick-CSS](https://github.com/Hot-Tutorials/Quick-CSS) - Quick CSS - The framework for those who want to write less
 - [Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 - [my-i3-dotfiles](https://github.com/mut-ex/my-i3-dotfiles) - Dotfiles for my i3 setup
 
