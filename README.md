@@ -131,6 +131,7 @@
 
 ## Python 
 
+- [pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
 - [hivenpy](https://github.com/NexInfinite/hivenpy) - A unofficial hiven wrapper for python
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [spotify-readme](https://github.com/novatorem/spotify-readme) - Dynamic realtime profile ReadMe linked with spotify
