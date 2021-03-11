@@ -60,6 +60,7 @@
 
 ## Java 
 
+- [CheatBreaker](https://github.com/Decencies/CheatBreaker) - 
 - [MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [SimpleHUD-Forge](https://github.com/TGMDevelopment/SimpleHUD-Forge) - MinecraftForge mod that displays overlays on your screen with different information (FPS, biome, day, coordinates)
 - [legui](https://github.com/SpinyOwl/legui) - Java OpenGL GUI library. Created for using with latest LWJGL (LWJGL 3).
