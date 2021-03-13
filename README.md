@@ -93,6 +93,7 @@
 
 ## JavaScript 
 
+- [youtube-clone-react](https://github.com/manuelruizc/youtube-clone-react) - 
 - [hypixel.js](https://github.com/caykey/hypixel.js) - Easy to use, Hypixel JavaScript Library
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [anmolsingh.me](https://github.com/anmol098/anmolsingh.me) - This is my personal website here I keep updating changes which cannot be summed up in my Resume
@@ -149,6 +150,7 @@
 
 ## Shell 
 
+- [ios-signer-ci](https://github.com/SignTools/ios-signer-ci) - Sign iOS apps on demand. Part of: https://github.com/SignTools/ios-signer-service
 - [Juice](https://github.com/hwittenborn/Juice) - A port of the Papirus icon theme to iOS
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
