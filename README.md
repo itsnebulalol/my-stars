@@ -60,6 +60,7 @@
 
 ## Java 
 
+- [jda-slash-commands](https://github.com/cerus/jda-slash-commands) - Slash commands for JDA
 - [CheatBreaker](https://github.com/Decencies/CheatBreaker) - 
 - [MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [SimpleHUD-Forge](https://github.com/TGMDevelopment/SimpleHUD-Forge) - MinecraftForge mod that displays overlays on your screen with different information (FPS, biome, day, coordinates)
@@ -92,6 +93,7 @@
 
 ## JavaScript 
 
+- [hypixel.js](https://github.com/caykey/hypixel.js) - Easy to use, Hypixel JavaScript Library
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [anmolsingh.me](https://github.com/anmol098/anmolsingh.me) - This is my personal website here I keep updating changes which cannot be summed up in my Resume
 - [npx_card](https://github.com/anmol098/npx_card) - use npx anmol to connect with me
@@ -112,6 +114,7 @@
 
 ## Kotlin 
 
+- [Coordinate](https://github.com/dreamhopping/Coordinate) - A work-in-progress mapping viewer and IntelliJ Plugin for Minecraft Development with planned support for MCP, Yarn and Mojang mappings
 - [KotlinUtils](https://github.com/tristianthedeveloper/KotlinUtils) - 
 
 ## Others 
