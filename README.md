@@ -81,7 +81,6 @@
 - [MCVmComputers](https://github.com/Delta2Force/MCVmComputers) - Order computer parts from a satellite orbiting around your minecraft world and build actual working computers with them!
 - [ScreenshotUploader](https://github.com/tristianthedeveloper/ScreenshotUploader) - 
 - [FlowUpdater](https://github.com/FlowArg/FlowUpdater) - The free and open source solution to update Minecraft.
-- [apollo](https://github.com/Ic0vid/apollo) - Minecraft 1.8.9 pvp Client
 - [badlion-src](https://github.com/routerabfrage/badlion-src) - Source Code of the 2.0.0-v-beta Badlion Client (no BAC included)
 - [obfuscator](https://github.com/superblaubeere27/obfuscator) - A java obfuscator (GUI)
 - [WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
