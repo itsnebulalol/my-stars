@@ -92,6 +92,7 @@
 
 ## JavaScript 
 
+- [minecraft-uuid-cache](https://github.com/caykey/minecraft-uuid-cache) - Fastest way of getting username to UUID including cache
 - [youtube-clone-react](https://github.com/manuelruizc/youtube-clone-react) - 
 - [hypixel.js](https://github.com/caykey/hypixel.js) - Easy to use, Hypixel JavaScript Library
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
