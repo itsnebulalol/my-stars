@@ -92,6 +92,7 @@
 
 ## JavaScript 
 
+- [chat](https://github.com/shadeoxide/chat) - An AI Powered Chat Bot for Discord
 - [minecraft-uuid-cache](https://github.com/caykey/minecraft-uuid-cache) - Fastest way of getting username to UUID including cache
 - [youtube-clone-react](https://github.com/manuelruizc/youtube-clone-react) - 
 - [hypixel.js](https://github.com/caykey/hypixel.js) - Easy to use, Hypixel JavaScript Library
