@@ -56,7 +56,7 @@
 
 ## HTML 
 
-- [discord-bot-client](https://github.com/Flam3rboy/discord-bot-client) - A custom version of discord, with bot login support
+- [discord-bot-client](https://github.com/Flam3rboy/discord-bot-client) - A patched version of discord, with bot login support
 
 ## Java 
 
