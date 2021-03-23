@@ -150,7 +150,7 @@
 
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
 - [NexInfinite/hivenpy](https://github.com/NexInfinite/hivenpy) - A unofficial hiven wrapper for python
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
 - [novatorem/spotify-readme](https://github.com/novatorem/spotify-readme) - Dynamic realtime profile ReadMe linked with spotify
 - [MCsniperPY/MCsniperPY](https://github.com/MCsniperPY/MCsniperPY) - Minecraft name sniper written in python.
 - [H1R0GH057/Anonymous](https://github.com/H1R0GH057/Anonymous) - 
