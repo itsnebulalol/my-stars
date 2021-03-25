@@ -135,7 +135,6 @@
 ## Others 
 
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [Decencies/Doughnut](https://github.com/Decencies/Doughnut) - A utility to easily create Maven and Gradle work-spaces for Mod Coder Pack.
 - [CheatBonker/CheatBonker-API](https://github.com/CheatBonker/CheatBonker-API) - 
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ Dark theme for all the things!
 - [trevordmiller/npm-script-naming-ideas](https://github.com/trevordmiller/npm-script-naming-ideas) - Ideas for naming npm scripts
