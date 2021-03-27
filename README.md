@@ -151,6 +151,8 @@
 
 ## Python 
 
+- [timothymiller/crypto-kill-switch](https://github.com/timothymiller/crypto-kill-switch) - 💸 Transfer between risky assets to stable-coins at the flip of a switch!
+- [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
 - [NexInfinite/hivenpy](https://github.com/NexInfinite/hivenpy) - A unofficial hiven wrapper for python
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
