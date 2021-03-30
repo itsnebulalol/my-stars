@@ -57,6 +57,7 @@
 
 ## Dart 
 
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 - [nabilnalakath/flutter-githubaction](https://github.com/nabilnalakath/flutter-githubaction) - This is a sample flutter project with CI-CD integration using Github Actions.
 - [FirebaseExtended/flutterfire](https://github.com/FirebaseExtended/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
 
