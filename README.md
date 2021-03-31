@@ -123,7 +123,7 @@
 - [serxka/new_tab](https://github.com/serxka/new_tab) - 
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [home-assistant/hadashboard](https://github.com/home-assistant/hadashboard) - :tropical_fish: Dashing dashboard for Home Assistant (deprecated)
-- [rauenzi/BetterDiscordApp](https://github.com/rauenzi/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
+- [rauenzi/BetterDiscordApp](https://github.com/rauenzi/BetterDiscordApp) - Better Discord enhances Discord desktop app with new features.
 - [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
 
 ## Kotlin 
