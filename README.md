@@ -80,7 +80,7 @@
 - [SpinyOwl/legui](https://github.com/SpinyOwl/legui) - Java OpenGL GUI library. Created for using with latest LWJGL (LWJGL 3).
 - [CheatBreaker/Obf](https://github.com/CheatBreaker/Obf) - Simple Java obfuscation concept designed to be a slight annoyance. Sorry, CheatEngine!
 - [montoyo/mcef](https://github.com/montoyo/mcef) - Minecraft ChromiumEF (based on JCEF)
-- [JDiscordBots/Mee6-bypasser](https://github.com/JDiscordBots/Mee6-bypasser) - This Discord Bot bypasses a premium feature of the Bot Mee6, so that you can use it for free.
+- [JDiscordBots/Me-e--bypasser](https://github.com/JDiscordBots/Me-e--bypasser) - This Discord Bot bypasses a premium feature of the Bot Mee6, so that you can use it for free.
 - [CobaltClient/cobaltclient](https://github.com/CobaltClient/cobaltclient) - Minecraft Client using Sponge Mixins
 - [BananaFructa/Apec](https://github.com/BananaFructa/Apec) - A Gui improvment mod for Hypixel Skyblock
 - [ViaVersion/ViaRewind](https://github.com/ViaVersion/ViaRewind) - Allow 1.8.x and 1.7.x on your 1.8-1.12.2 server
