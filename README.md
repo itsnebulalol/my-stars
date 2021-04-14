@@ -156,6 +156,7 @@
 
 ## Python 
 
+- [Marklab9/Proxier](https://github.com/Marklab9/Proxier) - Fast and easy-to-use proxy tool powered by python. 🐍
 - [iw4p/proxy-scraper](https://github.com/iw4p/proxy-scraper) - scrape proxies from more than 5 different sources and check which ones are still alive
 - [timothymiller/crypto-kill-switch](https://github.com/timothymiller/crypto-kill-switch) - 💸 Transfer between risky assets to stable-coins at the flip of a switch!
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
