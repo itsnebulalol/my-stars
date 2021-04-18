@@ -138,7 +138,7 @@
 
 ## Objective-C++ 
 
-- [angelXwind/simject](https://github.com/angelXwind/simject) - simject is a command-line tool and iOS dynamic library that allows developers to easily test their tweaks on the iOS Simulator.
+- [akemin-dayo/simject](https://github.com/akemin-dayo/simject) - simject is a command-line tool and iOS dynamic library that allows developers to easily test their tweaks on the iOS Simulator.
 
 ## Others 
 
