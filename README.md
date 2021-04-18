@@ -73,6 +73,7 @@
 
 ## Java 
 
+- [ClientPlayground/Melon-Client](https://github.com/ClientPlayground/Melon-Client) - 1.8.9 | Beta v2 / v4
 - [JMRaichDev/CheatBreaker](https://github.com/JMRaichDev/CheatBreaker) - 
 - [SpongePowered/Mixin](https://github.com/SpongePowered/Mixin) - Mixin is a trait/mixin and bytecode weaving framework for Java using ASM
 - [cerus/jda-slash-commands](https://github.com/cerus/jda-slash-commands) - Slash commands for JDA
