@@ -51,7 +51,7 @@
 ## CSS 
 
 - [overheremedia/Indicord](https://github.com/overheremedia/Indicord) - A nice indigo look for Discord!
-- [Discord-Theme-Addons/discord-name-badges](https://github.com/Discord-Theme-Addons/discord-name-badges) - Some nice custom badges for next to usernames.
+- [Discord-Theme-Addons/name-badges](https://github.com/Discord-Theme-Addons/name-badges) - Some nice custom badges for next to usernames.
 - [Hot-Tutorials/Quick-CSS](https://github.com/Hot-Tutorials/Quick-CSS) - Quick CSS - The framework for those who want to write less
 - [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 - [mut-ex/my-i3-dotfiles](https://github.com/mut-ex/my-i3-dotfiles) - Dotfiles for my i3 setup
