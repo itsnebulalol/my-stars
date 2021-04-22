@@ -87,7 +87,6 @@
 - [CobaltClient/cobaltclient](https://github.com/CobaltClient/cobaltclient) - Minecraft Client using Sponge Mixins
 - [BananaFructa/Apec](https://github.com/BananaFructa/Apec) - A Gui improvment mod for Hypixel Skyblock
 - [ViaVersion/ViaRewind](https://github.com/ViaVersion/ViaRewind) - Allow 1.8.x and 1.7.x on your 1.8-1.12.2 server
-- [egirlfrosty/BasicHud](https://github.com/egirlfrosty/BasicHud) - A basic hud for a pvp client... no idea why you would use this but go for it. Tecknix Client is based on this hud.
 - [AlephInfinity1/ForgeBlock](https://github.com/AlephInfinity1/ForgeBlock) - A recreation of Hypixel SkyBlock using Minecraft Forge. Credits to Hypixel for the original game. (Heavily WIP, do not download) NOTE: THIS IS NOT A HELPER MOD, PLEASE DO NOT PLAY ON HYPIXEL WITH THIS MOD INSTALLED
 - [MrCrayfish/MrCrayfishFurnitureMod](https://github.com/MrCrayfish/MrCrayfishFurnitureMod) - A Furniture Mod for Minecraft. Download ▶
 - [Premiering/JSON-Config-Thingy](https://github.com/Premiering/JSON-Config-Thingy) - Simplified org.json (org.json wrapper I think they call it)
