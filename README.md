@@ -148,7 +148,6 @@
 
 ## PHP 
 
-- [ilyBenny/sharex-uploader](https://github.com/ilyBenny/sharex-uploader) - A super simple ShareX uploader with Discord embed and Twitter Card support.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
 ## PowerShell 
