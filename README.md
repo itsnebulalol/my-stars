@@ -140,6 +140,7 @@
 
 ## Others 
 
+- [matcha98qx/noblockedmsg](https://github.com/matcha98qx/noblockedmsg) - Gets rid of the blocked message placeholder on Discord
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ Dark theme for all the things!
 - [trevordmiller/npm-script-naming-ideas](https://github.com/trevordmiller/npm-script-naming-ideas) - Ideas for naming npm scripts
