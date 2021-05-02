@@ -147,6 +147,7 @@
 
 ## PHP 
 
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
 ## PowerShell 
@@ -155,6 +156,7 @@
 
 ## Python 
 
+- [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
 - [Marklab9/Proxier](https://github.com/Marklab9/Proxier) - Fast and easy-to-use proxy tool powered by python. 🐍
 - [iw4p/proxy-scraper](https://github.com/iw4p/proxy-scraper) - scrape proxies from more than 5 different sources and check which ones are still alive
 - [timothymiller/crypto-kill-switch](https://github.com/timothymiller/crypto-kill-switch) - 💸 Transfer between risky assets to stable-coins at the flip of a switch!
@@ -184,6 +186,7 @@
 
 ## TypeScript 
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [Dragory/ZeppelinBot](https://github.com/Dragory/ZeppelinBot) - Zeppelin is a moderation bot for Discord, designed with large servers and reliability in mind.
 - [hivenapp/hiven.js](https://github.com/hivenapp/hiven.js) - Project on hold until Hiven API v1.0 is moved from alpha to stable | Framework for creating bots on Hiven
 - [angular/angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
