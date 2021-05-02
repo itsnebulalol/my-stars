@@ -89,7 +89,6 @@
 - [ViaVersion/ViaRewind](https://github.com/ViaVersion/ViaRewind) - Allow 1.8.x and 1.7.x on your server.
 - [AlephInfinity1/ForgeBlock](https://github.com/AlephInfinity1/ForgeBlock) - A recreation of Hypixel SkyBlock using Minecraft Forge. Credits to Hypixel for the original game. (Heavily WIP, do not download) NOTE: THIS IS NOT A HELPER MOD, PLEASE DO NOT PLAY ON HYPIXEL WITH THIS MOD INSTALLED
 - [MrCrayfish/MrCrayfishFurnitureMod](https://github.com/MrCrayfish/MrCrayfishFurnitureMod) - A Furniture Mod for Minecraft. Download ▶
-- [Premiering/JSON-Config-Thingy](https://github.com/Premiering/JSON-Config-Thingy) - Simplified org.json (org.json wrapper I think they call it)
 - [egold555/SupportServerModerationBot](https://github.com/egold555/SupportServerModerationBot) - Bots for my Discord support server
 - [mdashlw/better-friend-list](https://github.com/mdashlw/better-friend-list) - Better friends list for Hypixel.
 - [bowser0000/SkyblockMod](https://github.com/bowser0000/SkyblockMod) - QOL changes that enhances your Hypixel Skyblock experience.
