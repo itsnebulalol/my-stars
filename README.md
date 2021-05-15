@@ -131,7 +131,6 @@
 
 ## Kotlin 
 
-- [dreamhopping/Coordinate](https://github.com/dreamhopping/Coordinate) - A work-in-progress mapping viewer and IntelliJ Plugin for Minecraft Development with planned support for MCP, Yarn and Mojang mappings
 - [tristianthedeveloper/KotlinUtils](https://github.com/tristianthedeveloper/KotlinUtils) - 
 
 ## Objective-C++ 
