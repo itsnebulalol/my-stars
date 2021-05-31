@@ -154,6 +154,7 @@
 
 ## Python 
 
+- [kiki7000/discord.py-components](https://github.com/kiki7000/discord.py-components) - An unofficial library for discord components (under-development)
 - [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
 - [Marklab9/Proxier](https://github.com/Marklab9/Proxier) - Fast and easy-to-use proxy tool powered by python. 🐍
 - [iw4p/proxy-scraper](https://github.com/iw4p/proxy-scraper) - scrape proxies from more than 5 different sources and check which ones are still alive
