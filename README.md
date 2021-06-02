@@ -50,6 +50,7 @@
 
 ## CSS 
 
+- [matcha98qx/noblockedmsg](https://github.com/matcha98qx/noblockedmsg) - Gets rid of the blocked message placeholder on Discord
 - [overheremedia/Indicord](https://github.com/overheremedia/Indicord) - A nice indigo look for Discord!
 - [Discord-Theme-Addons/name-badges](https://github.com/Discord-Theme-Addons/name-badges) - Some nice custom badges for next to usernames.
 - [Hot-Tutorials/Quick-CSS](https://github.com/Hot-Tutorials/Quick-CSS) - Quick CSS - The framework for those who want to write less
@@ -138,7 +139,6 @@
 
 ## Others 
 
-- [matcha98qx/noblockedmsg](https://github.com/matcha98qx/noblockedmsg) - Gets rid of the blocked message placeholder on Discord
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ Dark theme for all the things!
 - [trevordmiller/npm-script-naming-ideas](https://github.com/trevordmiller/npm-script-naming-ideas) - Ideas for naming npm scripts
