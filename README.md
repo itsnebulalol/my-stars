@@ -77,7 +77,7 @@
 - [ClientPlayground/Melon-Client](https://github.com/ClientPlayground/Melon-Client) - 1.8.9 | Beta v2 / v4
 - [JMRaichDev/CheatBreaker-Cleaned](https://github.com/JMRaichDev/CheatBreaker-Cleaned) - 
 - [SpongePowered/Mixin](https://github.com/SpongePowered/Mixin) - Mixin is a trait/mixin and bytecode weaving framework for Java using ASM
-- [cerus/jda-slash-commands](https://github.com/cerus/jda-slash-commands) - Slash commands for JDA
+- [cerus/jda-slash-commands](https://github.com/cerus/jda-slash-commands) - Slash commands (and message components) for JDA
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [TGMDevelopment/SimpleHUD-Forge](https://github.com/TGMDevelopment/SimpleHUD-Forge) - MinecraftForge mod that displays overlays on your screen with different information (FPS, biome, day, coordinates)
 - [SpinyOwl/legui](https://github.com/SpinyOwl/legui) - Java OpenGL GUI library. Created for using with latest LWJGL (LWJGL 3).
