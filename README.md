@@ -50,6 +50,7 @@
 
 ## CSS 
 
+- [kckarnige/custom-server-logos](https://github.com/kckarnige/custom-server-logos) - Stick out from the crowd
 - [matcha98qx/noblockedmsg](https://github.com/matcha98qx/noblockedmsg) - Gets rid of the blocked message placeholder on Discord
 - [overheremedia/Indicord](https://github.com/overheremedia/Indicord) - A nice indigo look for Discord!
 - [Discord-Theme-Addons/name-badges](https://github.com/Discord-Theme-Addons/name-badges) - Some nice custom badges for next to usernames.
