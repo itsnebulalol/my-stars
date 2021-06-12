@@ -155,6 +155,7 @@
 
 ## Python 
 
+- [hube12/DecompilerMC](https://github.com/hube12/DecompilerMC) - This repository allows you to decompile any minecraft version that was published after 19w36a without any 3rd party mappings, you just need to execute the script or the executable (see releases)! Thanks mojang to have published proguard mappings
 - [kiki7000/discord.py-components](https://github.com/kiki7000/discord.py-components) - An unofficial library for discord components (under-development)
 - [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
 - [Marklab9/Proxier](https://github.com/Marklab9/Proxier) - Fast and easy-to-use proxy tool powered by python. 🐍
