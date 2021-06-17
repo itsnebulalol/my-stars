@@ -75,6 +75,7 @@
 
 ## Java 
 
+- [TecknixClient/BukkitAPI](https://github.com/TecknixClient/BukkitAPI) - Tecknix Client Bukkit API. An open source and simple Bukkit implementation for Tecknix Client
 - [ClientPlayground/Melon-Client](https://github.com/ClientPlayground/Melon-Client) - 1.8.9 | Beta v2 / v4
 - [JMRaichDev/CheatBreaker-Cleaned](https://github.com/JMRaichDev/CheatBreaker-Cleaned) - 
 - [SpongePowered/Mixin](https://github.com/SpongePowered/Mixin) - Mixin is a trait/mixin and bytecode weaving framework for Java using ASM
