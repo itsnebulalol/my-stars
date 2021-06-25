@@ -123,7 +123,7 @@
 - [Geometrically/fabric-test-runner](https://github.com/Geometrically/fabric-test-runner) - A test runner for mods using the fabric framework allowing for Minecraft Mods to use CI/CD!
 - [rjstone/discord-webhook-notify](https://github.com/rjstone/discord-webhook-notify) - Sends a notification to discord using a webhook URL. It is written in JavaScript so it will work with windows, osx, and linux execution environments.
 - [powercord-org/powercord](https://github.com/powercord-org/powercord) - A lightweight @discord client mod focused on simplicity and performance.
-- [grtcdr/startpages](https://github.com/grtcdr/startpages) - 🎨 Startpages for your favorite browser!
+- [grtcdr/startpages](https://github.com/grtcdr/startpages) - 🍫 Startpages for your favorite browser!
 - [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [sandoche/Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
 - [serxka/new_tab](https://github.com/serxka/new_tab) - 
