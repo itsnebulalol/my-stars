@@ -164,6 +164,7 @@
 - [iw4p/proxy-scraper](https://github.com/iw4p/proxy-scraper) - scrape proxies from more than 5 different sources and check which ones are still alive
 - [timothymiller/crypto-kill-switch](https://github.com/timothymiller/crypto-kill-switch) - 💸 Transfer between risky assets to stable-coins at the flip of a switch!
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
+- [SignTools/ios-signer-ci](https://github.com/SignTools/ios-signer-ci) - Sign iOS apps on demand using CI. Part of: https://github.com/SignTools/ios-signer-service
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
 - [NexInfinite/hivenpy](https://github.com/NexInfinite/hivenpy) - A unofficial hiven wrapper for python
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -179,7 +180,6 @@
 ## Shell 
 
 - [vilhelmprytz/pterodactyl-installer](https://github.com/vilhelmprytz/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
-- [SignTools/ios-signer-ci](https://github.com/SignTools/ios-signer-ci) - Sign iOS apps on demand using CI. Part of: https://github.com/SignTools/ios-signer-service
 - [hwittenborn/Juice](https://github.com/hwittenborn/Juice) - A port of the Papirus icon theme to iOS
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
