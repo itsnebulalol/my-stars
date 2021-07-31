@@ -75,6 +75,8 @@
 
 ## Java 
 
+- [DeDiamondPro/HyCord](https://github.com/DeDiamondPro/HyCord) - HyCord is a minecraft mod that aims for discord and hypixel integration
+- [egirlfrosty/ClientBase](https://github.com/egirlfrosty/ClientBase) - A simple mixin client base for beginners.
 - [TecknixClient/BukkitAPI](https://github.com/TecknixClient/BukkitAPI) - Tecknix Client Bukkit API. An open source and simple Bukkit implementation for Tecknix Client
 - [ClientPlayground/Melon-Client](https://github.com/ClientPlayground/Melon-Client) - 1.8.9 | Beta v2 / v4
 - [JMRaichDev/CheatBreaker-Cleaned](https://github.com/JMRaichDev/CheatBreaker-Cleaned) - 
