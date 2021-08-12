@@ -168,7 +168,7 @@
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [SignTools/ios-signer-ci](https://github.com/SignTools/ios-signer-ci) - Sign iOS apps on demand using CI. Part of: https://github.com/SignTools/ios-signer-service
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
-- [NexInfinite/hivenpy](https://github.com/NexInfinite/hivenpy) - A unofficial hiven wrapper for python
+- [NexInfinite/hivenpy](https://github.com/NexInfinite/hivenpy) - An unofficial hiven wrapper for python
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [novatorem/spotify-readme](https://github.com/novatorem/spotify-readme) - Dynamic realtime profile ReadMe linked with spotify
 - [MCsniperPY/MCsniperPY](https://github.com/MCsniperPY/MCsniperPY) - Minecraft name sniper written in python.
