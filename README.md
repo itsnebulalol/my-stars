@@ -75,7 +75,7 @@
 
 ## Java 
 
-- [RequisiteGitHub/forge-mod-template](https://github.com/RequisiteGitHub/forge-mod-template) - A template for MinecraftForge mods
+- [queffe/forge-mod-template](https://github.com/queffe/forge-mod-template) - A template for MinecraftForge mods
 - [DeDiamondPro/HyCord](https://github.com/DeDiamondPro/HyCord) - HyCord is a minecraft mod that aims for discord and hypixel integration
 - [egirlfrosty/ClientBase](https://github.com/egirlfrosty/ClientBase) - A simple mixin client base for beginners.
 - [TecknixClient/BukkitAPI](https://github.com/TecknixClient/BukkitAPI) - Tecknix Client Bukkit API. An open source and simple Bukkit implementation for Tecknix Client
