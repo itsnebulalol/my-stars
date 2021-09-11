@@ -84,7 +84,6 @@
 - [SpongePowered/Mixin](https://github.com/SpongePowered/Mixin) - Mixin is a trait/mixin and bytecode weaving framework for Java using ASM
 - [cerus/jda-slash-commands](https://github.com/cerus/jda-slash-commands) - Slash commands (and message components) for JDA
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
-- [RequisiteGitHub/SimpleHUD-Forge](https://github.com/RequisiteGitHub/SimpleHUD-Forge) - MinecraftForge mod that displays overlays on your screen with different information (FPS, biome, day, coordinates)
 - [SpinyOwl/legui](https://github.com/SpinyOwl/legui) - Java OpenGL GUI library. Created for using with latest LWJGL (LWJGL 3).
 - [CheatBreaker/Obf](https://github.com/CheatBreaker/Obf) - Simple Java obfuscation concept designed to be a slight annoyance. Sorry, CheatEngine!
 - [montoyo/mcef](https://github.com/montoyo/mcef) - Minecraft ChromiumEF (based on JCEF)
