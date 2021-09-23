@@ -75,7 +75,7 @@
 
 ## Java 
 
-- [Hot-Tutorials/MCDocker](https://github.com/Hot-Tutorials/MCDocker) - 
+- [MCDocker/MCDocker](https://github.com/MCDocker/MCDocker) - 
 - [Qalcyo/Forge-Mod-Template](https://github.com/Qalcyo/Forge-Mod-Template) - A template for MinecraftForge mods
 - [DeDiamondPro/HyCord](https://github.com/DeDiamondPro/HyCord) - HyCord is a minecraft mod that aims for discord and hypixel integration
 - [egirlfrosty/ClientBase](https://github.com/egirlfrosty/ClientBase) - A simple mixin client base for beginners.
