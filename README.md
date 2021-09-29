@@ -50,7 +50,7 @@
 
 ## CSS 
 
-- [kckarnige/custom-server-logos](https://github.com/kckarnige/custom-server-logos) - Stick out from the crowd
+- [kckarnige/custom-server-logos](https://github.com/kckarnige/custom-server-logos) - "Stick out from the crowd." | A neat little Discord plugin that adds custom logos to your favorite servers.
 - [matcha298/noblockedmsg](https://github.com/matcha298/noblockedmsg) - Gets rid of the blocked message placeholder on Discord
 - [overheremedia/Indicord](https://github.com/overheremedia/Indicord) - A nice indigo look for Discord!
 - [Discord-Theme-Addons/name-badges](https://github.com/Discord-Theme-Addons/name-badges) - Some nice custom badges for next to usernames.
