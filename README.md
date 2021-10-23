@@ -168,7 +168,7 @@
 - [Marklab9/Proxier](https://github.com/Marklab9/Proxier) - Fast and easy-to-use proxy tool powered by python. 🐍
 - [iw4p/proxy-scraper](https://github.com/iw4p/proxy-scraper) - scrape proxies from more than 5 different sources and check which ones are still alive
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
-- [SignTools/ios-signer-ci](https://github.com/SignTools/ios-signer-ci) - Sign iOS apps on demand using CI. Part of: https://github.com/SignTools/ios-signer-service
+- [SignTools/SignTools-CI](https://github.com/SignTools/SignTools-CI) - Sign iOS apps on demand using CI. Part of: https://github.com/SignTools/SignTools
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
 - [NexInfinite/hivenpy](https://github.com/NexInfinite/hivenpy) - An unofficial hiven wrapper for python
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
