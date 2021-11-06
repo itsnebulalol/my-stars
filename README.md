@@ -70,7 +70,7 @@
 
 ## HTML 
 
-- [jayretic/repo.me](https://github.com/jayretic/repo.me) - a modern apt repository template built by the community
+- [arceseus/repo.me](https://github.com/arceseus/repo.me) - a modern apt repository template built by the community
 - [Flam3rboy/discord-bot-client](https://github.com/Flam3rboy/discord-bot-client) - A patched version of discord, with bot login support
 
 ## Java 
