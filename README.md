@@ -76,7 +76,7 @@
 ## Java 
 
 - [Decencies/LunarClient](https://github.com/Decencies/LunarClient) - no joking around.
-- [MCDocker/MCDocker](https://github.com/MCDocker/MCDocker) - 
+- [MCDocker/MCDocker-Core](https://github.com/MCDocker/MCDocker-Core) - 
 - [Qalcyo/ForgeJavaTemplate](https://github.com/Qalcyo/ForgeJavaTemplate) - A template for MinecraftForge mods
 - [DeDiamondPro/HyCord](https://github.com/DeDiamondPro/HyCord) - HyCord is a minecraft mod that aims for discord and hypixel integration
 - [egirlfrosty/ClientBase](https://github.com/egirlfrosty/ClientBase) - A simple mixin client base for beginners.
