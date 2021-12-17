@@ -190,6 +190,7 @@
 
 ## Swift 
 
+- [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
 - [metaflowltd/flutter_health_fit](https://github.com/metaflowltd/flutter_health_fit) - A flutter plugin for using Apple HealthKit and Google Fit.
 
 ## TypeScript 
