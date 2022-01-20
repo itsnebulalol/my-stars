@@ -76,6 +76,7 @@
 
 ## Java 
 
+- [Decencies/LunarRemapper](https://github.com/Decencies/LunarRemapper) - The Mixin re-mapper for Lunar Client.
 - [Decencies/LunarClient](https://github.com/Decencies/LunarClient) - no joking around.
 - [MCDocker/MCDocker-Core](https://github.com/MCDocker/MCDocker-Core) - 
 - [Qalcyo-Archive/ForgeModTemplate](https://github.com/Qalcyo-Archive/ForgeModTemplate) - A template for MinecraftForge mods
@@ -149,7 +150,6 @@
 
 ## Others 
 
-- [Decencies/LunarRemapper](https://github.com/Decencies/LunarRemapper) - The Mixin re-mapper for Lunar Client.
 - [itsnebulalol/minimalize-issue-tracker](https://github.com/itsnebulalol/minimalize-issue-tracker) - Minimalize is a hand-crafted theme for jailbroken iOS.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
