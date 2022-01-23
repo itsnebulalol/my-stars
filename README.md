@@ -115,7 +115,7 @@
 ## JavaScript 
 
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
-- [shadeoxide/chat](https://github.com/shadeoxide/chat) - An AI Powered Chat Bot for Discord
+- [sohamsuvarna/chat](https://github.com/sohamsuvarna/chat) - An AI Powered Chat Bot for Discord
 - [manuelruizc/youtube-clone-react](https://github.com/manuelruizc/youtube-clone-react) - 
 - [caykey/hypixel.js](https://github.com/caykey/hypixel.js) - Easy to use, Hypixel JavaScript Library
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
