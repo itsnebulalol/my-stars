@@ -22,6 +22,7 @@
   - [PHP](#php)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [Rust](#rust)
   - [Shell](#shell)
   - [Swift](#swift)
   - [TypeScript](#typescript)
@@ -184,6 +185,10 @@
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+
+## Rust 
+
+- [fluetlang/fluet](https://github.com/fluetlang/fluet) - The Fluet programming language.
 
 ## Shell 
 
