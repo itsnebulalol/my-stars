@@ -139,6 +139,7 @@
 
 ## Kotlin 
 
+- [AgentRKID/Hypixel-MiddleMan-API](https://github.com/AgentRKID/Hypixel-MiddleMan-API) - Automatic caches of hypixels data without spamming their API with same requests
 - [tristianthedeveloper/KotlinUtils](https://github.com/tristianthedeveloper/KotlinUtils) - 
 
 ## Objective-C 
@@ -151,6 +152,7 @@
 
 ## Others 
 
+- [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
 - [itsnebulalol/minimalize-issue-tracker](https://github.com/itsnebulalol/minimalize-issue-tracker) - Minimalize is a hand-crafted theme for jailbroken iOS.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
@@ -192,6 +194,7 @@
 
 ## Shell 
 
+- [itsnebulalol/seedbox](https://github.com/itsnebulalol/seedbox) - A collection of Docker Compose services to set up a seedbox and personal media server.
 - [duraki/SketchCrapp](https://github.com/duraki/SketchCrapp) - SketchCrapp - Crack your Sketch.app in seconds :) Supports MacOS Big Sur.
 - [vilhelmprytz/pterodactyl-installer](https://github.com/vilhelmprytz/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
 - [hwittenborn/Juice](https://github.com/hwittenborn/Juice) - A port of the Papirus icon theme to iOS
