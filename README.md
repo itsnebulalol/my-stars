@@ -165,6 +165,7 @@
 
 ## PowerShell 
 
+- [beerpiss/aptDL](https://github.com/beerpiss/aptDL) - Downloads Cydia repositories (with support for purchased packages)
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
 ## Python 
