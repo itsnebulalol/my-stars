@@ -129,7 +129,7 @@
 - [rjstone/discord-webhook-notify](https://github.com/rjstone/discord-webhook-notify) - Sends a notification to discord using a webhook URL. It is written in JavaScript so it will work with windows, osx, and linux execution environments.
 - [powercord-org/powercord](https://github.com/powercord-org/powercord) - A lightweight @discord client mod focused on simplicity and performance.
 - [grtcdr/startpages](https://github.com/grtcdr/startpages) - A collection of startpages for your favorite browser.
-- [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [sandoche/Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
 - [serxka/new_tab](https://github.com/serxka/new_tab) - 
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
