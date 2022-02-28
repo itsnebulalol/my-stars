@@ -196,7 +196,8 @@
 
 ## Shell 
 
-- [itsnebulalol/seedbox](https://github.com/itsnebulalol/seedbox) - A collection of Docker Compose services to set up a seedbox and personal media server.
+- [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+- [itsnebulalol/seedbox](https://github.com/itsnebulalol/seedbox) - 📦 A collection of Docker Compose services to set up a seedbox and personal media server.
 - [duraki/SketchCrapp](https://github.com/duraki/SketchCrapp) - SketchCrapp - Crack your Sketch.app in seconds :) Supports MacOS Big Sur.
 - [vilhelmprytz/pterodactyl-installer](https://github.com/vilhelmprytz/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
 - [hwittenborn/Juice](https://github.com/hwittenborn/Juice) - A port of the Papirus icon theme to iOS
