@@ -171,6 +171,7 @@
 
 ## Python 
 
+- [avilash/TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) - TikTok API Python Wrapper
 - [mackorone/spotify-playlist-archive](https://github.com/mackorone/spotify-playlist-archive) - Daily snapshots of public Spotify playlists
 - [hube12/DecompilerMC](https://github.com/hube12/DecompilerMC) - This repository allows you to decompile any minecraft version that was published after 19w36a without any 3rd party mappings, you just need to execute the script or the executable (see releases)! Thanks mojang to have published proguard mappings
 - [kiki7000/discord.py-components](https://github.com/kiki7000/discord.py-components) - An unofficial third-party library of discord.py for discord components.
