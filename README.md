@@ -153,6 +153,7 @@
 
 ## Others 
 
+- [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
 - [itsnebulalol/minimalize-issue-tracker](https://github.com/itsnebulalol/minimalize-issue-tracker) - Minimalize is a hand-crafted theme for jailbroken iOS.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
