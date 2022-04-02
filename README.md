@@ -80,6 +80,8 @@
 
 ## Java 
 
+- [radioegor146/native-obfuscator](https://github.com/radioegor146/native-obfuscator) - Java .class to .cpp converter for use with JNI
+- [Noxiuam/Bitches](https://github.com/Noxiuam/Bitches) - Someone in the Feather Client Discord told me to go code myself some bitches, so I did.
 - [Decencies/LunarRemapper](https://github.com/Decencies/LunarRemapper) - The Mixin re-mapper for Lunar Client.
 - [Decencies/LunarClient](https://github.com/Decencies/LunarClient) - no joking around.
 - [Qalcyo-Archive/ForgeModTemplate](https://github.com/Qalcyo-Archive/ForgeModTemplate) - A template for MinecraftForge mods
@@ -141,6 +143,7 @@
 
 ## Kotlin 
 
+- [sorusclient/client](https://github.com/sorusclient/client) - 
 - [AgentRKID/Hypixel-MiddleMan-API](https://github.com/AgentRKID/Hypixel-MiddleMan-API) - Automatic caches of hypixels data without spamming their API with same requests
 - [tristianthedeveloper/KotlinUtils](https://github.com/tristianthedeveloper/KotlinUtils) - 
 
@@ -215,6 +218,7 @@
 
 ## TypeScript 
 
+- [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [ZeppelinBot/Zeppelin](https://github.com/ZeppelinBot/Zeppelin) - Zeppelin is a moderation bot for Discord, designed with large servers and reliability in mind.
 - [hivenapp/hiven.js](https://github.com/hivenapp/hiven.js) - Project on hold until Hiven API v1.0 is moved from alpha to stable | Framework for creating bots on Hiven
