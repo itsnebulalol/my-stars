@@ -200,6 +200,7 @@
 
 ## Rust 
 
+- [edward-shen/bunbun](https://github.com/edward-shen/bunbun) - Self-hostable and configurable search/jump multiplexer service
 - [fluetlang/fluet](https://github.com/fluetlang/fluet) - The Fluet programming language.
 
 ## Shell 
