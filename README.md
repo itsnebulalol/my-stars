@@ -149,6 +149,7 @@
 
 ## Objective-C 
 
+- [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [iMokhles/In-Tweak-Purchase](https://github.com/iMokhles/In-Tweak-Purchase) - in-tweak purchase system works with Paypal-SDK and using Parse framework to save informations
 
 ## Objective-C++ 
@@ -176,6 +177,8 @@
 
 ## Python 
 
+- [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies
+- [DiscordGIR/GIRRewrite](https://github.com/DiscordGIR/GIRRewrite) - 
 - [LawOff/Discord-Server-Cloner](https://github.com/LawOff/Discord-Server-Cloner) - A selfbot to a copy a discord server(without perms ofc) ... Give credits if you skid
 - [avilash/TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) - TikTok API Python Wrapper
 - [mackorone/spotify-playlist-archive](https://github.com/mackorone/spotify-playlist-archive) - Daily snapshots of public Spotify playlists
