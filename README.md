@@ -205,6 +205,7 @@
 
 ## Shell 
 
+- [RedPrez16/Asahi-Ubuntu](https://github.com/RedPrez16/Asahi-Ubuntu) - An attempt to run Ubuntu on M1 Macintoshes
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [itsnebulalol/seedbox](https://github.com/itsnebulalol/seedbox) - 📦 A collection of Docker Compose services to set up a seedbox and personal media server.
 - [duraki/SketchCrapp](https://github.com/duraki/SketchCrapp) - SketchCrapp - Crack your Sketch.app in seconds :) Supports MacOS Big Sur.
