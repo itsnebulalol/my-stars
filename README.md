@@ -81,7 +81,6 @@
 ## Java 
 
 - [radioegor146/native-obfuscator](https://github.com/radioegor146/native-obfuscator) - Java .class to .cpp converter for use with JNI
-- [Noxiuam/Bitches](https://github.com/Noxiuam/Bitches) - Someone in the Feather Client Discord told me to go code myself some bitches, so I did.
 - [Decencies/LunarRemapper](https://github.com/Decencies/LunarRemapper) - The Mixin re-mapper for Lunar Client.
 - [Decencies/LunarClient](https://github.com/Decencies/LunarClient) - no joking around.
 - [Qalcyo-Archive/ForgeModTemplate](https://github.com/Qalcyo-Archive/ForgeModTemplate) - A template for MinecraftForge mods
