@@ -56,7 +56,7 @@
 - [kckarnige/custom-server-logos](https://github.com/kckarnige/custom-server-logos) - "Stick out from the crowd." | A neat little Discord plugin that adds custom logos to your favorite servers.
 - [matchakuya/noblockedmsg](https://github.com/matchakuya/noblockedmsg) - Gets rid of the blocked message placeholder on Discord
 - [overheremedia/Indicord](https://github.com/overheremedia/Indicord) - A nice indigo look for Discord!
-- [Discord-Theme-Addons-Archived/name-badges](https://github.com/Discord-Theme-Addons-Archived/name-badges) - Some nice custom badges for next to usernames.
+- [discord-extensions-archived/name-badges](https://github.com/discord-extensions-archived/name-badges) - Some nice custom badges for next to usernames.
 - [LynithDev/Quick-CSS](https://github.com/LynithDev/Quick-CSS) - Quick CSS - The framework for those who want to write less
 - [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 - [mut-ex/my-i3-dotfiles](https://github.com/mut-ex/my-i3-dotfiles) - Dotfiles for my i3 setup
