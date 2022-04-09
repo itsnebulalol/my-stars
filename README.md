@@ -205,6 +205,7 @@
 
 ## Rust 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [edward-shen/bunbun](https://github.com/edward-shen/bunbun) - Self-hostable and configurable search/jump multiplexer service
 - [fluetlang/fluet](https://github.com/fluetlang/fluet) - The Fluet programming language.
