@@ -53,6 +53,7 @@
 
 ## CSS 
 
+- [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
 - [kckarnige/custom-server-logos](https://github.com/kckarnige/custom-server-logos) - "Stick out from the crowd." | A neat little Discord plugin that adds custom logos to your favorite servers.
 - [matchakuya/noblockedmsg](https://github.com/matchakuya/noblockedmsg) - Gets rid of the blocked message placeholder on Discord
 - [overheremedia/Indicord](https://github.com/overheremedia/Indicord) - A nice indigo look for Discord!
@@ -80,6 +81,7 @@
 
 ## Java 
 
+- [danterusdev/sol-client-glassmc](https://github.com/danterusdev/sol-client-glassmc) - 
 - [radioegor146/native-obfuscator](https://github.com/radioegor146/native-obfuscator) - Java .class to .cpp converter for use with JNI
 - [Decencies/LunarRemapper](https://github.com/Decencies/LunarRemapper) - The Mixin re-mapper for Lunar Client.
 - [Decencies/LunarClient](https://github.com/Decencies/LunarClient) - no joking around.
@@ -203,6 +205,7 @@
 
 ## Rust 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [edward-shen/bunbun](https://github.com/edward-shen/bunbun) - Self-hostable and configurable search/jump multiplexer service
 - [fluetlang/fluet](https://github.com/fluetlang/fluet) - The Fluet programming language.
 
