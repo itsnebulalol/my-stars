@@ -217,7 +217,7 @@
 
 ## Shell 
 
-- [pop-os/asahi-pop](https://github.com/pop-os/asahi-pop) - Experimental scripts for building an Asahi-compatible Pop!_OS image
+- [pop-os/pop-arm64](https://github.com/pop-os/pop-arm64) - Experimental scripts for building an Pop!_OS for ARM64 EFI platforms.
 - [RedPrez16/Asahi-Ubuntu](https://github.com/RedPrez16/Asahi-Ubuntu) - An attempt to run Ubuntu on M1 Macintoshes
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [itsnebulalol/seedbox](https://github.com/itsnebulalol/seedbox) - 📦 A collection of Docker Compose services to set up a seedbox and personal media server.
