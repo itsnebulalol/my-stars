@@ -77,6 +77,7 @@
 
 ## Go 
 
+- [shyiko/jabba](https://github.com/shyiko/jabba) - (cross-platform) Java Version Manager
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 
@@ -87,6 +88,7 @@
 
 ## Java 
 
+- [kb-1000/no-telemetry](https://github.com/kb-1000/no-telemetry) - Disable the telemetry introduced in 21w38a
 - [Sol-Client/Client](https://github.com/Sol-Client/Client) - Open source Minecraft client with Replay Mod and more.
 - [danterusdev/sol-client-glassmc](https://github.com/danterusdev/sol-client-glassmc) - 
 - [radioegor146/native-obfuscator](https://github.com/radioegor146/native-obfuscator) - Java .class to .cpp converter for use with JNI
