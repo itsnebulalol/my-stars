@@ -224,6 +224,7 @@
 
 ## Shell 
 
+- [troy/simpleoptout](https://github.com/troy/simpleoptout) - Deep links to opt-out of data sharing by 50+ companies.
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) - A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [pop-os/pop-arm64](https://github.com/pop-os/pop-arm64) - Experimental scripts for building an Pop!_OS for ARM64 EFI platforms.
 - [RedPrez16/Asahi-Ubuntu](https://github.com/RedPrez16/Asahi-Ubuntu) - An attempt to run Ubuntu on M1 Macintoshes
