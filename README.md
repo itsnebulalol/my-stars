@@ -89,7 +89,7 @@
 ## Java 
 
 - [kb-1000/no-telemetry](https://github.com/kb-1000/no-telemetry) - Disable the telemetry introduced in 21w38a
-- [Sol-Client/Client](https://github.com/Sol-Client/Client) - Open source Minecraft client with Replay Mod and more.
+- [Sol-Client/Client](https://github.com/Sol-Client/Client) - Open source Minecraft client with Replay Mod and more. Download from our site
 - [danterusdev/sol-client-glassmc](https://github.com/danterusdev/sol-client-glassmc) - 
 - [radioegor146/native-obfuscator](https://github.com/radioegor146/native-obfuscator) - Java .class to .cpp converter for use with JNI
 - [Decencies/LunarRemapper](https://github.com/Decencies/LunarRemapper) - The Mixin re-mapper for Lunar Client.
