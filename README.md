@@ -35,7 +35,7 @@
 
 ## C 
 
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [resloved/i3](https://github.com/resloved/i3) - 🔲 — Rounded i3-gaps
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 
@@ -109,7 +109,7 @@
 - [JDiscordBots/Me-e--bypasser](https://github.com/JDiscordBots/Me-e--bypasser) - This Discord Bot bypasses a premium feature of the Bot Mee6, so that you can use it for free.
 - [BananaFructa/Apec](https://github.com/BananaFructa/Apec) - A Gui improvment mod for Hypixel Skyblock
 - [ViaVersion/ViaRewind](https://github.com/ViaVersion/ViaRewind) - Allow 1.8.x and 1.7.x on your server.
-- [AlephInfinity1/ForgeBlock](https://github.com/AlephInfinity1/ForgeBlock) - A recreation of Hypixel SkyBlock using Minecraft Forge. Credits to Hypixel for the original game. (Heavily WIP, do not download) NOTE: THIS IS NOT A HELPER MOD, PLEASE DO NOT PLAY ON HYPIXEL WITH THIS MOD INSTALLED
+- [AlephInfinity1/ForgeBlock](https://github.com/AlephInfinity1/ForgeBlock) - A recreation of Hypixel SkyBlock using Minecraft Forge. Credits to Hypixel for the original game. (Heavily WIP, do not download) NOTE: THIS IS NOT A HELPER MOD, PLEASE DO NOT PLAY ON HYPIXEL WITH THIS
 - [MrCrayfish/MrCrayfishFurnitureMod](https://github.com/MrCrayfish/MrCrayfishFurnitureMod) - A Furniture Mod for Minecraft. Download ▶
 - [egold555/SupportServerModerationBot](https://github.com/egold555/SupportServerModerationBot) - Bots for my Discord support server
 - [mdashlw/better-friend-list](https://github.com/mdashlw/better-friend-list) - Better friends list for Hypixel.
@@ -148,7 +148,7 @@
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [home-assistant/hadashboard](https://github.com/home-assistant/hadashboard) - :tropical_fish: Dashing dashboard for Home Assistant (deprecated)
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
-- [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
+- [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appli
 
 ## Kotlin 
 
@@ -194,7 +194,7 @@
 - [LawOff/Discord-Server-Cloner](https://github.com/LawOff/Discord-Server-Cloner) - A selfbot to a copy a discord server(without perms ofc) ... Give credits if you skid
 - [avilash/TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) - TikTok API Python Wrapper
 - [mackorone/spotify-playlist-archive](https://github.com/mackorone/spotify-playlist-archive) - Daily snapshots of public Spotify playlists
-- [hube12/DecompilerMC](https://github.com/hube12/DecompilerMC) - This repository allows you to decompile any minecraft version that was published after 19w36a without any 3rd party mappings, you just need to execute the script or the executable (see releases)! Thanks mojang to have published proguard mappings
+- [hube12/DecompilerMC](https://github.com/hube12/DecompilerMC) - This repository allows you to decompile any minecraft version that was published after 19w36a without any 3rd party mappings, you just need to execute the script or the executable (see releases)! Than
 - [kiki7000/discord.py-components](https://github.com/kiki7000/discord.py-components) - An unofficial third-party library of discord.py for discord components.
 - [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
 - [marcobackup/Proxier](https://github.com/marcobackup/Proxier) - Fast and easy-to-use proxy tool powered by python. 🐍
@@ -233,7 +233,7 @@
 - [duraki/SketchCrapp](https://github.com/duraki/SketchCrapp) - SketchCrapp - Crack your Sketch.app in seconds :) Supports MacOS Big Sur.
 - [vilhelmprytz/pterodactyl-installer](https://github.com/vilhelmprytz/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
 - [hwittenborn/Juice](https://github.com/hwittenborn/Juice) - A port of the Papirus icon theme to iOS
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## Swift 
 
