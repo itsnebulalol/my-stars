@@ -187,6 +187,7 @@
 
 ## Python 
 
+- [pythemer/themer](https://github.com/pythemer/themer) - A WIP theme engine for macOS, written in Python.
 - [openairplay/airplay2-receiver](https://github.com/openairplay/airplay2-receiver) - AirPlay 2 Receiver - Python implementation
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies
