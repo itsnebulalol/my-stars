@@ -244,6 +244,7 @@
 
 ## TypeScript 
 
+- [conaticus/opal](https://github.com/conaticus/opal) - A content management system designed for web developers who wish to simplify their job whilst having a large portion control over web applications.
 - [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [ZeppelinBot/Zeppelin](https://github.com/ZeppelinBot/Zeppelin) - Zeppelin is a moderation bot for Discord, designed with large servers and reliability in mind.
