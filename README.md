@@ -12,6 +12,7 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [EJS](#ejs)
+- [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -75,6 +76,10 @@
 
 - [jeopardization/Zyklon](https://github.com/jeopardization/Zyklon) - Web-based ghost client for Minecraft Forge 1.7.10 & 1.8.9
 
+## GLSL 
+
+- [xCollateral/VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
+
 ## Go 
 
 - [shyiko/jabba](https://github.com/shyiko/jabba) - (cross-platform) Java Version Manager
@@ -90,7 +95,6 @@
 
 - [kb-1000/no-telemetry](https://github.com/kb-1000/no-telemetry) - Disable the telemetry introduced in 21w38a
 - [Sol-Client/Client](https://github.com/Sol-Client/Client) - Open source Minecraft client with Replay Mod and more. Download from our site
-- [xCollateral/VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
 - [danterusdev/sol-client-glassmc](https://github.com/danterusdev/sol-client-glassmc) - 
 - [radioegor146/native-obfuscator](https://github.com/radioegor146/native-obfuscator) - Java .class to .cpp converter for use with JNI
 - [Decencies/LunarRemapper](https://github.com/Decencies/LunarRemapper) - The Mixin re-mapper for Lunar Client.
