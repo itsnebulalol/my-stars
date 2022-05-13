@@ -27,6 +27,7 @@
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [Vue](#vue)
 - [YAML](#yaml)
 
 ## Batchfile 
@@ -130,6 +131,7 @@
 
 ## JavaScript 
 
+- [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [sohamsuvarna/chat](https://github.com/sohamsuvarna/chat) - An AI Powered Chat Bot for Discord
 - [manuelruizc/youtube-clone-react](https://github.com/manuelruizc/youtube-clone-react) - 
@@ -245,6 +247,7 @@
 
 ## TypeScript 
 
+- [revoltchat/revite](https://github.com/revoltchat/revite) - Revolt client built with Preact.
 - [fireship-io/node-blockchain](https://github.com/fireship-io/node-blockchain) - Blockchain Cryptocurrency Implemented with Node & TypeScript
 - [conaticus/opal](https://github.com/conaticus/opal) - A content management system designed for web developers who wish to simplify their job whilst having a large portion control over web applications.
 - [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
@@ -255,6 +258,10 @@
 - [mateothegreat/discord-bot-typescript-autobot](https://github.com/mateothegreat/discord-bot-typescript-autobot) - Discord bot written with TypeScript
 - [DBuit/Homekit-panel-card](https://github.com/DBuit/Homekit-panel-card) - Homekit panel card for home assistant
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## Vue 
+
+- [fayazara/fluenticons](https://github.com/fayazara/fluenticons) - Fluenticons is an icon viewer for Microsofts fluent icons, with over 4000 pixel perfect icons in outlined and solid styles. Download the icons as SVG, PNG, WEBP, Vue component, React Component and HTM
 
 ## YAML 
 
