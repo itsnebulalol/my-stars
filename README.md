@@ -36,6 +36,7 @@
 
 ## C 
 
+- [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [resloved/i3](https://github.com/resloved/i3) - 🔲 — Rounded i3-gaps
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
@@ -67,6 +68,7 @@
 
 ## Dart 
 
+- [git-touch/git-touch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 - [MCDocker/MCDocker-Core](https://github.com/MCDocker/MCDocker-Core) - 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [nabilnalakath/flutter-githubaction](https://github.com/nabilnalakath/flutter-githubaction) - This is a sample flutter project with CI-CD integration using Github Actions.
@@ -130,6 +132,7 @@
 
 ## JavaScript 
 
+- [antony/svelte-box](https://github.com/antony/svelte-box) - A truffle box for svelte
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [sohamsuvarna/chat](https://github.com/sohamsuvarna/chat) - An AI Powered Chat Bot for Discord
@@ -246,6 +249,7 @@
 
 ## TypeScript 
 
+- [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
 - [revoltchat/revite](https://github.com/revoltchat/revite) - Revolt client built with Preact.
 - [fireship-io/node-blockchain](https://github.com/fireship-io/node-blockchain) - Blockchain Cryptocurrency Implemented with Node & TypeScript
 - [conaticus/opal](https://github.com/conaticus/opal) - A content management system designed for web developers who wish to simplify their job whilst having a large portion control over web applications.
