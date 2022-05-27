@@ -250,6 +250,7 @@
 
 ## TypeScript 
 
+- [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushi 2.0 🍣
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
 - [revoltchat/revite](https://github.com/revoltchat/revite) - Revolt client built with Preact.
 - [fireship-io/node-blockchain](https://github.com/fireship-io/node-blockchain) - Blockchain Cryptocurrency Implemented with Node & TypeScript
