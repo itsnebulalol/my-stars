@@ -252,6 +252,7 @@
 
 ## TypeScript 
 
+- [ven/ven-earth](https://github.com/ven/ven-earth) - 🌍 My personal site created with Next.js and TailwindCSS.
 - [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushi 2.0 🍣
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
 - [revoltchat/revite](https://github.com/revoltchat/revite) - Revolt client built with Preact.
