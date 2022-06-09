@@ -87,6 +87,7 @@
 
 ## Java 
 
+- [CitizensDev/Citizens2](https://github.com/CitizensDev/Citizens2) - Citizens - the premier plugin and API for creating server-side NPCs in Minecraft.
 - [kb-1000/no-telemetry](https://github.com/kb-1000/no-telemetry) - Disable the telemetry introduced in 21w38a
 - [Sol-Client/Client](https://github.com/Sol-Client/Client) - Open source Minecraft client with Replay Mod and more.
 - [xCollateral/VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
