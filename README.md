@@ -26,6 +26,7 @@
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [YAML](#yaml)
 
@@ -229,6 +230,7 @@
 
 ## Shell 
 
+- [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [troy/simpleoptout](https://github.com/troy/simpleoptout) - Deep links to opt-out of data sharing by 50+ companies.
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) - A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [pop-os/pop-arm64](https://github.com/pop-os/pop-arm64) - Experimental scripts for building an Pop!_OS for ARM64 EFI platforms.
@@ -263,6 +265,10 @@
 - [mateothegreat/discord-bot-typescript-autobot](https://github.com/mateothegreat/discord-bot-typescript-autobot) - Discord bot written with TypeScript
 - [DBuit/Homekit-panel-card](https://github.com/DBuit/Homekit-panel-card) - Homekit panel card for home assistant
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## Visual Basic .NET 
+
+- [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Colorize Windows 10/11 Accents without restrictions
 
 ## Vue 
 
