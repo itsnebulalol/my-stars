@@ -131,6 +131,7 @@
 
 ## JavaScript 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/
 - [antony/svelte-box](https://github.com/antony/svelte-box) - A truffle box for svelte
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
@@ -172,6 +173,7 @@
 
 ## Others 
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [Decencies/Articles](https://github.com/Decencies/Articles) - 
@@ -194,6 +196,7 @@
 
 ## Python 
 
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [pythemer/themer](https://github.com/pythemer/themer) - A WIP theme engine for macOS, written in Python.
 - [openairplay/airplay2-receiver](https://github.com/openairplay/airplay2-receiver) - AirPlay 2 Receiver - Python implementation
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
