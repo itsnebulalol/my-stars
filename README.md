@@ -166,7 +166,6 @@
 
 - [sorusclient/client](https://github.com/sorusclient/client) - 
 - [AgentRKID/Hypixel-MiddleMan-API](https://github.com/AgentRKID/Hypixel-MiddleMan-API) - Automatic caches of hypixels data without spamming their API with same requests
-- [tristianthedeveloper/KotlinUtils](https://github.com/tristianthedeveloper/KotlinUtils) - 
 
 ## Objective-C 
 
