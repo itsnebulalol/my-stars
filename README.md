@@ -38,6 +38,7 @@
 
 ## C 
 
+- [zhuowei/CoreTrustDemo](https://github.com/zhuowei/CoreTrustDemo) - Proof-of-concept for CVE-2022-26766 on macOS 12.3.1
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
 - [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) - 🍂 Multipurpose homebrew tool for Nintendo Switch
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
