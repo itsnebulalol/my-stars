@@ -207,6 +207,7 @@
 
 ## Python 
 
+- [phx/pyusbmux](https://github.com/phx/pyusbmux) - USB multiplexing client, compatible with Python 2/3, which allows for SSH over USB to jailbroken iOS devices and more.
 - [rcg4u/iphonessh](https://github.com/rcg4u/iphonessh) - iPhone using SSH only works using wireless, this method does not use wireless, this method used a tcprelay through your USB by using a port and 127.0.0.1 or localhost in order to connect to an existin
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
