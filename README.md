@@ -269,6 +269,7 @@
 
 ## Swift 
 
+- [powenn/permasigneriOS](https://github.com/powenn/permasigneriOS) - permasigner on iOS
 - [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
