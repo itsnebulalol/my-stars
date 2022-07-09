@@ -169,6 +169,7 @@
 
 ## Kotlin 
 
+- [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
 - [sorusclient/client](https://github.com/sorusclient/client) - 
 - [AgentRKID/Hypixel-MiddleMan-API](https://github.com/AgentRKID/Hypixel-MiddleMan-API) - Automatic caches of hypixels data without spamming their API with same requests
 
