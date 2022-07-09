@@ -21,6 +21,7 @@
 - [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
+- [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
@@ -38,6 +39,7 @@
 
 ## C 
 
+- [tihmstar/jbinit](https://github.com/tihmstar/jbinit) - iOS booter ramdisk creator for checkm8 based jailbreaks
 - [zhuowei/CoreTrustDemo](https://github.com/zhuowei/CoreTrustDemo) - Proof-of-concept for CVE-2022-26766 on macOS 12.3.1
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
 - [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) - 🍂 Multipurpose homebrew tool for Nintendo Switch
@@ -201,6 +203,10 @@
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
+## Pascal 
+
+- [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
+
 ## PowerShell 
 
 - [beerpiss/aptDL](https://github.com/beerpiss/aptDL) - Downloads Cydia repositories (with support for purchased packages)
@@ -208,6 +214,7 @@
 
 ## Python 
 
+- [ThirtyVirus/TalismanCalculator](https://github.com/ThirtyVirus/TalismanCalculator) - Hypixel SkyBlock Talisman Sorting Script. Sorts talismans by cost per mp to aquire
 - [iCrazeiOS/Pazdro-Ebook-DL](https://github.com/iCrazeiOS/Pazdro-Ebook-DL) - PDF downloader for ebook.pazdro.com.pl
 - [itsnebulalol/permasigner](https://github.com/itsnebulalol/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [phx/pyusbmux](https://github.com/phx/pyusbmux) - USB multiplexing client, compatible with Python 2/3, which allows for SSH over USB to jailbroken iOS devices and more.
