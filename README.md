@@ -308,7 +308,7 @@
 
 ## Vue 
 
-- [fayazara/fluenticons](https://github.com/fayazara/fluenticons) - Fluenticons is an icon viewer for Microsofts fluent icons, with over 4000 pixel perfect icons in outlined and solid styles. Download the icons as SVG, PNG, WEBP, Vue component, React Component and HTM
+- [coltongriffith/fluenticons](https://github.com/coltongriffith/fluenticons) - Fluenticons is an icon viewer for Microsofts fluent icons, with over 4000 pixel perfect icons in outlined and solid styles. Download the icons as SVG, PNG, WEBP, Vue component, React Component and HTM
 
 ## YAML 
 
