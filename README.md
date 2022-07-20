@@ -149,7 +149,7 @@
 - [antony/svelte-box](https://github.com/antony/svelte-box) - A truffle box for svelte
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
-- [sohamsuvarna/chat](https://github.com/sohamsuvarna/chat) - An AI Powered Chat Bot for Discord
+- [sohamksuvarna/chat](https://github.com/sohamksuvarna/chat) - An AI Powered Chat Bot for Discord
 - [manuelruizc/youtube-clone-react](https://github.com/manuelruizc/youtube-clone-react) - 
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [anmol098/anmolsingh.me](https://github.com/anmol098/anmolsingh.me) - This is my personal website here I keep updating changes which cannot be summed up in my Resume
