@@ -101,6 +101,7 @@
 
 ## Java 
 
+- [nodusclient/gaslight](https://github.com/nodusclient/gaslight) - 
 - [CitizensDev/Citizens2](https://github.com/CitizensDev/Citizens2) - Citizens - the premier plugin and API for creating server-side NPCs in Minecraft.
 - [kb-1000/no-telemetry](https://github.com/kb-1000/no-telemetry) - Disable the telemetry introduced in 21w38a
 - [Sol-Client/Client](https://github.com/Sol-Client/Client) - Open source Minecraft client with many useful features.
