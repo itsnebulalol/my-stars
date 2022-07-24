@@ -280,6 +280,7 @@
 
 ## Swift 
 
+- [midnightchip/PermaFrost](https://github.com/midnightchip/PermaFrost) - 
 - [powenn/permasigneriOS](https://github.com/powenn/permasigneriOS) - permasigner on iOS
 - [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
