@@ -260,6 +260,7 @@
 
 ## Shell 
 
+- [cfw-guide/ios.cfw.guide](https://github.com/cfw-guide/ios.cfw.guide) - A complete iOS modding guide, from stock to jailbroken.
 - [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux and BSD
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [troy/simpleoptout](https://github.com/troy/simpleoptout) - Deep links to opt-out of data sharing by 50+ companies.
@@ -289,6 +290,7 @@
 
 ## TypeScript 
 
+- [kernel-mod/installer-gui](https://github.com/kernel-mod/installer-gui) - A GUI installer for kernel-mod.
 - [ven/ven-earth](https://github.com/ven/ven-earth) - 🌍 My personal site created with Next.js and TailwindCSS.
 - [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushi 2.0 🍣
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
