@@ -215,9 +215,9 @@
 
 ## Python 
 
+- [itsnebulalol/permasigner](https://github.com/itsnebulalol/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [ThirtyVirus/TalismanCalculator](https://github.com/ThirtyVirus/TalismanCalculator) - Hypixel SkyBlock Talisman Sorting Script. Sorts talismans by cost per mp to aquire
 - [iCrazeiOS/Pazdro-Ebook-DL](https://github.com/iCrazeiOS/Pazdro-Ebook-DL) - PDF downloader for ebook.pazdro.com.pl
-- [itsnebulalol/permasigner](https://github.com/itsnebulalol/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [phx/pyusbmux](https://github.com/phx/pyusbmux) - USB multiplexing client, compatible with Python 2/3, which allows for SSH over USB to jailbroken iOS devices and more.
 - [rcg4u/iphonessh](https://github.com/rcg4u/iphonessh) - iPhone using SSH only works using wireless, this method does not use wireless, this method used a tcprelay through your USB by using a port and 127.0.0.1 or localhost in order to connect to an existin
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
