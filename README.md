@@ -216,6 +216,7 @@
 
 ## Python 
 
+- [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [itsnebulalol/permasigner](https://github.com/itsnebulalol/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [ThirtyVirus/TalismanCalculator](https://github.com/ThirtyVirus/TalismanCalculator) - Hypixel SkyBlock Talisman Sorting Script. Sorts talismans by cost per mp to aquire
 - [iCrazeiOS/Pazdro-Ebook-DL](https://github.com/iCrazeiOS/Pazdro-Ebook-DL) - PDF downloader for ebook.pazdro.com.pl
