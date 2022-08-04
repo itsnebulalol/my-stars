@@ -30,7 +30,6 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
-- [Vue](#vue)
 - [YAML](#yaml)
 
 ## Batchfile 
@@ -313,10 +312,6 @@
 ## Visual Basic .NET 
 
 - [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Colorize Windows 10/11 Accents without restrictions
-
-## Vue 
-
-- [coltongriffith/fluenticons](https://github.com/coltongriffith/fluenticons) - Fluenticons is an icon viewer for Microsofts fluent icons, with over 4000 pixel perfect icons in outlined and solid styles. Download the icons as SVG, PNG, WEBP, Vue component, React Component and HTM
 
 ## YAML 
 
