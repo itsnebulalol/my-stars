@@ -283,6 +283,8 @@
 
 ## Swift 
 
+- [SerenaKit/Santander](https://github.com/SerenaKit/Santander) - A new, enhanced File Manager for iOS devices
+- [Sileo/Sileo](https://github.com/Sileo/Sileo) - A modern package manager for iOS 12 and higher.
 - [midnightchip/PermaFrost](https://github.com/midnightchip/PermaFrost) - 
 - [powenn/permasigneriOS](https://github.com/powenn/permasigneriOS) - permasigner on iOS
 - [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
