@@ -178,7 +178,6 @@
 
 ## Objective-C 
 
-- [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [iMokhles/In-Tweak-Purchase](https://github.com/iMokhles/In-Tweak-Purchase) - in-tweak purchase system works with Paypal-SDK and using Parse framework to save informations
 
 ## Objective-C++ 
@@ -288,6 +287,7 @@
 - [powenn/permasigneriOS](https://github.com/powenn/permasigneriOS) - permasigner on iOS
 - [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
+- [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
 - [metaflowltd/flutter_health_fit](https://github.com/metaflowltd/flutter_health_fit) - A flutter plugin for using Apple HealthKit and Google Fit.
 
