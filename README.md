@@ -38,6 +38,8 @@
 
 ## C 
 
+- [opa334/sandbox_extension_generator](https://github.com/opa334/sandbox_extension_generator) - iOS 15.0 - 15.3.1 sandbox escape technique using kernel read/write primitives
+- [potmdehex/multicast_bytecopy](https://github.com/potmdehex/multicast_bytecopy) - kernel r/w exploit for iOS 15.0 - 15.1.1
 - [tihmstar/jbinit](https://github.com/tihmstar/jbinit) - iOS booter ramdisk creator for checkm8 based jailbreaks
 - [zhuowei/CoreTrustDemo](https://github.com/zhuowei/CoreTrustDemo) - Proof-of-concept for CVE-2022-26766 on macOS 12.3.1
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
