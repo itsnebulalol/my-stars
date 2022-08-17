@@ -147,6 +147,7 @@
 
 ## JavaScript 
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [brandonsaldan/sassafras](https://github.com/brandonsaldan/sassafras) - A minimalist portfolio template built with Vue and Tailwind.
 - [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -195,6 +196,7 @@
 
 ## Others 
 
+- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - The best tweak for the YouTube app
 - [techlore/go-incognito](https://github.com/techlore/go-incognito) - Go Incognito: A Guide to Security, Privacy, & Anonymity
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
