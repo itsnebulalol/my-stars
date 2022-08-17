@@ -17,6 +17,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
+- [Logos](#logos)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
 - [Others](#others)
@@ -102,6 +103,7 @@
 
 ## Java 
 
+- [Sk1erLLC/OldAnimations](https://github.com/Sk1erLLC/OldAnimations) - 1.7 Animations in 1.8.
 - [nodusclient/gaslight](https://github.com/nodusclient/gaslight) - 
 - [CitizensDev/Citizens2](https://github.com/CitizensDev/Citizens2) - Citizens - the premier plugin and API for creating server-side NPCs in Minecraft.
 - [kb-1000/no-telemetry](https://github.com/kb-1000/no-telemetry) - Disable the telemetry introduced in 21w38a
@@ -179,6 +181,10 @@
 - [sorusclient/client](https://github.com/sorusclient/client) - 
 - [AgentRKID/Hypixel-MiddleMan-API](https://github.com/AgentRKID/Hypixel-MiddleMan-API) - Automatic caches of hypixels data without spamming their API with same requests
 
+## Logos 
+
+- [haoict/instagram-no-ads](https://github.com/haoict/instagram-no-ads) - 📸 Tweak to remove ads on Instagram app for iOS!
+
 ## Objective-C 
 
 - [iMokhles/In-Tweak-Purchase](https://github.com/iMokhles/In-Tweak-Purchase) - in-tweak purchase system works with Paypal-SDK and using Parse framework to save informations
@@ -189,6 +195,7 @@
 
 ## Others 
 
+- [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - The best tweak for the YouTube app
 - [techlore/go-incognito](https://github.com/techlore/go-incognito) - Go Incognito: A Guide to Security, Privacy, & Anonymity
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
@@ -216,6 +223,7 @@
 
 ## Python 
 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [itsnebulalol/permasigner](https://github.com/itsnebulalol/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [ThirtyVirus/TalismanCalculator](https://github.com/ThirtyVirus/TalismanCalculator) - Hypixel SkyBlock Talisman Sorting Script. Sorts talismans by cost per mp to aquire
@@ -299,6 +307,7 @@
 
 ## TypeScript 
 
+- [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites
 - [kernel-mod/installer-gui](https://github.com/kernel-mod/installer-gui) - A GUI installer for kernel-mod.
 - [ven/ven-earth](https://github.com/ven/ven-earth) - 🌍 My personal site created with Next.js and TailwindCSS.
 - [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushi 2.0 🍣
