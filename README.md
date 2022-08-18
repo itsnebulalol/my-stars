@@ -291,6 +291,7 @@
 
 ## Svelte 
 
+- [ManuelDeLeon/sveltekit-firebase-ssr](https://github.com/ManuelDeLeon/sveltekit-firebase-ssr) - 
 - [phptuts/firebase-sveltekit-recipe-site](https://github.com/phptuts/firebase-sveltekit-recipe-site) - 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 
