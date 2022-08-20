@@ -304,6 +304,7 @@
 
 ## Swift 
 
+- [ginsudev/ProtectedBrowser](https://github.com/ginsudev/ProtectedBrowser) - Prevent JS injection on third party in-app browsers (instagram, TikTok, etc).
 - [RobotsAndPencils/xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [SerenaKit/Santander](https://github.com/SerenaKit/Santander) - A new, enhanced File Manager for iOS devices
 - [Sileo/Sileo](https://github.com/Sileo/Sileo) - A modern package manager for iOS 12 and higher.
