@@ -99,6 +99,7 @@
 
 ## HTML 
 
+- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [localdevice/repo.me](https://github.com/localdevice/repo.me) - a modern apt repository template built by the community
 - [Flam3rboy/discord-bot-client](https://github.com/Flam3rboy/discord-bot-client) - A patched version of discord, with bot login support
 
@@ -151,7 +152,6 @@
 - [natsu-anon/STOWAWAY](https://github.com/natsu-anon/STOWAWAY) - E2E PGP Encryption layer for discord focused on ease-of-use via bots
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [brandonsaldan/sassafras](https://github.com/brandonsaldan/sassafras) - A minimalist portfolio template built with Vue and Tailwind.
-- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/
 - [antony/svelte-box](https://github.com/antony/svelte-box) - A truffle box for svelte
