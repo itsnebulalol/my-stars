@@ -306,6 +306,7 @@
 
 ## Swift 
 
+- [LinusHenze/Fugu14](https://github.com/LinusHenze/Fugu14) - Fugu14 is an untethered iOS 14.3-14.5.1 jailbreak
 - [ginsudev/ProtectedBrowser](https://github.com/ginsudev/ProtectedBrowser) - Prevent JS injection on third party in-app browsers (instagram, TikTok, etc).
 - [RobotsAndPencils/xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [SerenaKit/Santander](https://github.com/SerenaKit/Santander) - A new, enhanced File Manager for iOS devices
