@@ -323,6 +323,7 @@
 
 ## TypeScript 
 
+- [cnstr/manifests](https://github.com/cnstr/manifests) - Authoritative list of classified repositories.
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites
 - [kernel-mod/installer-gui](https://github.com/kernel-mod/installer-gui) - A GUI installer for kernel-mod.
 - [ven/ven-earth](https://github.com/ven/ven-earth) - 🌍 My personal site created with Next.js and TailwindCSS.
