@@ -198,7 +198,7 @@
 
 ## Objective-C 
 
-- [opa334/opainject](https://github.com/opa334/opainject) - iOS dylib injection tool
+- [opa334/opainject](https://github.com/opa334/opainject) - iOS runtime dylib injection tool
 - [iMokhles/In-Tweak-Purchase](https://github.com/iMokhles/In-Tweak-Purchase) - in-tweak purchase system works with Paypal-SDK and using Parse framework to save informations
 
 ## Objective-C++ 
