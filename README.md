@@ -241,7 +241,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
-- [itsnebulalol/permasigner](https://github.com/itsnebulalol/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
+- [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [ThirtyVirus/TalismanCalculator](https://github.com/ThirtyVirus/TalismanCalculator) - Hypixel SkyBlock Talisman Sorting Script. Sorts talismans by cost per mp to aquire
 - [iCrazeiOS/Pazdro-Ebook-DL](https://github.com/iCrazeiOS/Pazdro-Ebook-DL) - PDF downloader for ebook.pazdro.com.pl
 - [phx/pyusbmux](https://github.com/phx/pyusbmux) - USB multiplexing client, compatible with Python 2/3, which allows for SSH over USB to jailbroken iOS devices and more.
