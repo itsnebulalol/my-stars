@@ -40,6 +40,7 @@
 
 ## C 
 
+- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [asdfugil/haxx](https://github.com/asdfugil/haxx) - Untethered + Unsandboxed code execution haxx as root on iOS 14 - iOS 14.8.1.
 - [opa334/sandbox_extension_generator](https://github.com/opa334/sandbox_extension_generator) - iOS 15.0 - 15.3.1 sandbox escape technique using kernel read/write primitives
 - [potmdehex/multicast_bytecopy](https://github.com/potmdehex/multicast_bytecopy) - kernel r/w exploit for iOS 15.0 - 15.1.1
@@ -306,12 +307,14 @@
 
 ## Svelte 
 
+- [qewer33/qewer33.github.io](https://github.com/qewer33/qewer33.github.io) - My personal website built with Svelte and p5.js
 - [ManuelDeLeon/sveltekit-firebase-ssr](https://github.com/ManuelDeLeon/sveltekit-firebase-ssr) - 
 - [phptuts/firebase-sveltekit-recipe-site](https://github.com/phptuts/firebase-sveltekit-recipe-site) - 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift 
 
+- [tale/iconset](https://github.com/tale/iconset) - A nifty command-line tool to customize macOS icons
 - [LinusHenze/Fugu14](https://github.com/LinusHenze/Fugu14) - Fugu14 is an untethered iOS 14.3-14.5.1 jailbreak
 - [ginsudev/ProtectedBrowser](https://github.com/ginsudev/ProtectedBrowser) - Prevent JS injection on third party in-app browsers (instagram, TikTok, etc).
 - [RobotsAndPencils/xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
