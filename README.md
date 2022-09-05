@@ -109,6 +109,7 @@
 
 ## Java 
 
+- [TecknixClient/Mod-Integration-API](https://github.com/TecknixClient/Mod-Integration-API) - Allows direct integration into any Forge or Fabric mod.
 - [Sk1erLLC/OldAnimations](https://github.com/Sk1erLLC/OldAnimations) - 1.7 Animations in 1.8.
 - [nodusclient/gaslight](https://github.com/nodusclient/gaslight) - 
 - [CitizensDev/Citizens2](https://github.com/CitizensDev/Citizens2) - Citizens - the premier plugin and API for creating server-side NPCs in Minecraft.
@@ -314,6 +315,7 @@
 
 ## Swift 
 
+- [Skittyblock/WallpaperSetter](https://github.com/Skittyblock/WallpaperSetter) - iOS application for setting separate light and dark mode wallpapers
 - [tale/iconset](https://github.com/tale/iconset) - A nifty command-line tool to customize macOS icons
 - [LinusHenze/Fugu14](https://github.com/LinusHenze/Fugu14) - Fugu14 is an untethered iOS 14.3-14.5.1 jailbreak
 - [ginsudev/ProtectedBrowser](https://github.com/ginsudev/ProtectedBrowser) - Prevent JS injection on third party in-app browsers (instagram, TikTok, etc).
