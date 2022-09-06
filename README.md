@@ -354,7 +354,7 @@
 
 ## Visual Basic .NET 
 
-- [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Colorize Windows 10/11 Accents without restrictions
+- [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Colorizing Windows Accents
 
 ## YAML 
 
