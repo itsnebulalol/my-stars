@@ -332,6 +332,7 @@
 
 ## TypeScript 
 
+- [FireDiscordBot/bot](https://github.com/FireDiscordBot/bot) - A Discord bot for all your needs. With memes, utilities, moderation & more, Fire is the only bot you'll need.
 - [cnstr/manifests](https://github.com/cnstr/manifests) - Authoritative list of classified repositories.
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites
 - [kernel-mod/installer-gui](https://github.com/kernel-mod/installer-gui) - A GUI installer for kernel-mod.
