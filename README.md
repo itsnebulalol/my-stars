@@ -316,6 +316,7 @@
 
 ## Swift 
 
+- [hbang/NewTerm](https://github.com/hbang/NewTerm) - NewTerm is a terminal emulator app with first-class iPhone, iPad, and Mac support.
 - [Skittyblock/WallpaperSetter](https://github.com/Skittyblock/WallpaperSetter) - iOS application for setting separate light and dark mode wallpapers
 - [tale/iconset](https://github.com/tale/iconset) - A nifty command-line tool to customize macOS icons
 - [LinusHenze/Fugu14](https://github.com/LinusHenze/Fugu14) - Fugu14 is an untethered iOS 14.3-14.5.1 jailbreak
