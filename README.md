@@ -209,6 +209,7 @@
 
 ## Others 
 
+- [itsnebulalol/deb-to-ipa](https://github.com/itsnebulalol/deb-to-ipa) - ▶️ Convert an application from a deb to an IPA with a GitHub workflow.
 - [mineek/mineekJB](https://github.com/mineek/mineekJB) - 
 - [permasigner/action](https://github.com/permasigner/action) - ▶️ GitHub action for Permasigner, useful for CI/CD.
 - [beerpiss/procursus-action](https://github.com/beerpiss/procursus-action) - Bootstraps the Procursus toolchain on macOS runners
