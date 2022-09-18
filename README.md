@@ -190,7 +190,7 @@
 
 ## Logos 
 
-- [haoict/tiktok-god](https://github.com/haoict/tiktok-god) - 🎶 The best free & open source tweak for TikTok app on iOS 12 - 14
+- [haoict/tiktok-god](https://github.com/haoict/tiktok-god) - 🎶 The best free & open source tweak for TikTok app on iOS
 - [haoict/instagram-no-ads](https://github.com/haoict/instagram-no-ads) - 📸 Tweak to remove ads on Instagram app for iOS!
 
 ## Makefile 
