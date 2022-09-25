@@ -102,6 +102,7 @@
 
 ## HTML 
 
+- [localdevice/repo.me](https://github.com/localdevice/repo.me) - a modern apt repository template built by the community
 - [Flam3rboy/discord-bot-client](https://github.com/Flam3rboy/discord-bot-client) - A patched version of discord, with bot login support
 
 ## Java 
@@ -307,7 +308,6 @@
 - [itsnebulalol/seedbox](https://github.com/itsnebulalol/seedbox) - 📦 A collection of Docker Compose services to set up a seedbox and personal media server.
 - [duraki/SketchCrapp](https://github.com/duraki/SketchCrapp) - SketchCrapp - Crack your Sketch.app in seconds :) Supports MacOS Big Sur.
 - [vilhelmprytz/pterodactyl-installer](https://github.com/vilhelmprytz/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
-- [localdevice/repo.me](https://github.com/localdevice/repo.me) - a modern apt repository template built by the community
 - [hwittenborn/Juice](https://github.com/hwittenborn/Juice) - A port of the Papirus icon theme to iOS
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
