@@ -243,6 +243,7 @@
 
 ## Python 
 
+- [Cryptiiiic/Tatsu](https://github.com/Cryptiiiic/Tatsu) - Tatsu(pytatsu): A Python library/CLI tool for requesting and saving shsh blobs from apple's tatsu signing server api.
 - [mineek/sunst0rm](https://github.com/mineek/sunst0rm) - iOS Tether Downgrader
 - [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild) - A PyPI to PKGBUILD converter.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
