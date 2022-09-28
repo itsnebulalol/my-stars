@@ -73,7 +73,7 @@
 ## CSS 
 
 - [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
-- [kckarnige/custom-server-logos](https://github.com/kckarnige/custom-server-logos) - "Stick out from the crowd." | A neat little Discord plugin that adds custom logos to your favorite servers.
+- [kckarnige/custom-server-logos](https://github.com/kckarnige/custom-server-logos) - A neat little Discord plugin that adds custom logos to your favorite servers.
 - [matchakuya/noblockedmsg](https://github.com/matchakuya/noblockedmsg) - Gets rid of the blocked message placeholder on Discord
 - [overheremedia/Indicord](https://github.com/overheremedia/Indicord) - A nice indigo look for Discord!
 - [discord-extensions-archived/name-badges](https://github.com/discord-extensions-archived/name-badges) - Some nice custom badges for next to usernames.
