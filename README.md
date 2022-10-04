@@ -294,7 +294,7 @@
 
 ## Shell 
 
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7 semi-tethered checkm8 "jailbreak" | tweaks: iOS 15.0-15.3.1 tethered
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.3.1 tethered checkm8 "jailbreak" (rootless is 15.0-15.7 semi-tethered, no tweaks)
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [verygenericname/SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) - Shell script that creates a ssh ramdisk
 - [CRKatri/entitlements](https://github.com/CRKatri/entitlements) - Dumped entitlements
