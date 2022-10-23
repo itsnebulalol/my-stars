@@ -320,6 +320,7 @@
 
 ## Swift 
 
+- [sourcelocation/TrollTools](https://github.com/sourcelocation/TrollTools) - TrollTools - Revolutionizing iOS 15 customisation
 - [elihwyma/Pogo](https://github.com/elihwyma/Pogo) - 
 - [hbang/NewTerm](https://github.com/hbang/NewTerm) - NewTerm is a terminal emulator app with first-class iPhone, iPad, and Mac support.
 - [Skittyblock/WallpaperSetter](https://github.com/Skittyblock/WallpaperSetter) - iOS application for setting separate light and dark mode wallpapers
