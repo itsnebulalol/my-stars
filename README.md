@@ -101,7 +101,7 @@
 
 ## HTML 
 
-- [localdevice/repo.me](https://github.com/localdevice/repo.me) - a modern apt repository template built by the community
+- [sukarodo/repo.me](https://github.com/sukarodo/repo.me) - a modern apt repository template built by the community
 - [Flam3rboy/discord-bot-client](https://github.com/Flam3rboy/discord-bot-client) - A patched version of discord, with bot login support
 
 ## Java 
