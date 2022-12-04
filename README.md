@@ -27,6 +27,7 @@
 - [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Svelte](#svelte)
@@ -41,6 +42,7 @@
 
 ## C 
 
+- [dora2-iOS/t8015_fakerootfs_homebutton](https://github.com/dora2-iOS/t8015_fakerootfs_homebutton) - 
 - [asdfugil/haxx](https://github.com/asdfugil/haxx) - Untethered + Unsandboxed code execution haxx as root on iOS 14 - iOS 14.8.1.
 - [opa334/sandbox_extension_generator](https://github.com/opa334/sandbox_extension_generator) - iOS 15.0 - 15.3.1 sandbox escape technique using kernel read/write primitives
 - [potmdehex/multicast_bytecopy](https://github.com/potmdehex/multicast_bytecopy) - kernel r/w exploit for iOS 15.0 - 15.1.1
@@ -290,6 +292,10 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 
+## Ruby 
+
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+
 ## Rust 
 
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -330,6 +336,7 @@
 
 ## Swift 
 
+- [evelyneee/ellekit](https://github.com/evelyneee/ellekit) - yet another tweak injector / tweak hooking library for darwin systems
 - [sourcelocation/TrollTools](https://github.com/sourcelocation/TrollTools) - TrollTools - Revolutionizing iOS 15 customisation
 - [elihwyma/Pogo](https://github.com/elihwyma/Pogo) - 
 - [hbang/NewTerm](https://github.com/hbang/NewTerm) - NewTerm is a terminal emulator app with first-class iPhone, iPad, and Mac support.
