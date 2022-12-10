@@ -207,12 +207,14 @@
 
 ## Objective-C 
 
+- [opa334/AltList](https://github.com/opa334/AltList) - A modern AppList alternative
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [opa334/opainject](https://github.com/opa334/opainject) - iOS runtime dylib injection tool
 - [iMokhles/In-Tweak-Purchase](https://github.com/iMokhles/In-Tweak-Purchase) - in-tweak purchase system works with Paypal-SDK and using Parse framework to save informations
 
 ## Objective-C++ 
 
+- [opa334/SafariPlus](https://github.com/opa334/SafariPlus) - Tweak for iOS App "Safari" - Various enhancements
 - [akemin-dayo/simject](https://github.com/akemin-dayo/simject) - simject is a command-line tool and iOS dynamic library that allows developers to easily test their tweaks on the iOS Simulator.
 
 ## Others 
