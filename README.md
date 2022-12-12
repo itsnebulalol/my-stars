@@ -311,7 +311,7 @@
 
 - [DanTheMann15/iBootLSD](https://github.com/DanTheMann15/iBootLSD) - A dumb script that endlessly loops bgcolor to make your device show "rainbows" in recovery.
 - [itsnebulalol/14.8.1-ipsw](https://github.com/itsnebulalol/14.8.1-ipsw) - Script to create a 14.8.1 IPSW used for a pwned restore.
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [verygenericname/SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) - Shell script that creates a ssh ramdisk
 - [CRKatri/entitlements](https://github.com/CRKatri/entitlements) - Dumped entitlements
