@@ -42,6 +42,7 @@
 
 ## C 
 
+- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [dora2-iOS/t8015_fakerootfs_homebutton](https://github.com/dora2-iOS/t8015_fakerootfs_homebutton) - 
 - [asdfugil/haxx](https://github.com/asdfugil/haxx) - Untethered + Unsandboxed code execution haxx as root on iOS 14 - iOS 14.8.1.
 - [opa334/sandbox_extension_generator](https://github.com/opa334/sandbox_extension_generator) - iOS 15.0 - 15.3.1 sandbox escape technique using kernel read/write primitives
