@@ -257,6 +257,7 @@
 
 ## Python 
 
+- [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [Cryptiiiic/Tatsu](https://github.com/Cryptiiiic/Tatsu) - Tatsu(pytatsu): A Python library/CLI tool for requesting and saving shsh blobs from apple's tatsu signing server api.
 - [mineek/sunst0rm](https://github.com/mineek/sunst0rm) - iOS Tether Downgrader
 - [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild) - A PyPI to PKGBUILD converter.
