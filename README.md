@@ -68,6 +68,7 @@
 
 ## C++ 
 
+- [Cryptiiiic/Tatsu](https://github.com/Cryptiiiic/Tatsu) - Tatsu(pytatsu): A C++ library/CLI tool for requesting and saving shsh blobs from apple's tatsu signing server api.
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps for video game consoles
 - [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
@@ -259,7 +260,6 @@
 
 - [LuzProject/luz](https://github.com/LuzProject/luz) - Revolutionary build system for tweaks.
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
-- [Cryptiiiic/Tatsu](https://github.com/Cryptiiiic/Tatsu) - Tatsu(pytatsu): A C++ library/CLI tool for requesting and saving shsh blobs from apple's tatsu signing server api.
 - [mineek/sunst0rm](https://github.com/mineek/sunst0rm) - iOS Tether Downgrader
 - [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild) - A PyPI to PKGBUILD converter.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
@@ -387,7 +387,7 @@
 
 ## Visual Basic .NET 
 
-- [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Colorizing Windows Accents
+- [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
 
 ## YAML 
 
