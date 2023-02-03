@@ -258,6 +258,7 @@
 
 ## Python 
 
+- [LiveWaffle/JellyStatus](https://github.com/LiveWaffle/JellyStatus) - 
 - [LuzProject/luz](https://github.com/LuzProject/luz) - Revolutionary build system for tweaks.
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [mineek/sunst0rm](https://github.com/mineek/sunst0rm) - iOS Tether Downgrader
