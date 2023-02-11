@@ -62,7 +62,7 @@
 - [jesseward/jellyfin-plugin-lastfm](https://github.com/jesseward/jellyfin-plugin-lastfm) - LastFM plugin for the Jellyfin media system. Fork of the Emby Last.FM plug-in
 - [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2) - OpenBullet reinvented
 - [openbullet/openbullet](https://github.com/openbullet/openbullet) - The OpenBullet web testing application.
-- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
+- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [rocksdanister/rePaper](https://github.com/rocksdanister/rePaper) - Desktop that changes based on weather & time
 
