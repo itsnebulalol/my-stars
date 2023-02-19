@@ -16,7 +16,6 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Logos](#logos)
 - [Makefile](#makefile)
@@ -166,6 +165,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [brandonsaldan/sassafras](https://github.com/brandonsaldan/sassafras) - A minimalist portfolio template built with Vue and Tailwind.
 - [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
+- [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 - [antony/svelte-box](https://github.com/antony/svelte-box) - A truffle box for svelte
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
@@ -188,10 +188,6 @@
 - [home-assistant/hadashboard](https://github.com/home-assistant/hadashboard) - :tropical_fish: Dashing dashboard for Home Assistant (deprecated)
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appli
-
-## Jupyter Notebook 
-
-- [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 
 ## Kotlin 
 
