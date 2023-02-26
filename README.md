@@ -119,7 +119,7 @@
 - [nodusclient/gaslight](https://github.com/nodusclient/gaslight) - 
 - [CitizensDev/Citizens2](https://github.com/CitizensDev/Citizens2) - Citizens - the premier plugin and API for creating server-side NPCs in Minecraft.
 - [kb-1000/no-telemetry](https://github.com/kb-1000/no-telemetry) - Disable the telemetry introduced in 21w38a
-- [Sol-Client/client](https://github.com/Sol-Client/client) - A fairly good client I guess! This repository holds the source code for the launcher and wrapper/mod.
+- [Sol-Client/client](https://github.com/Sol-Client/client) - A fairly good client I guess!
 - [xCollateral/VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
 - [danterusdev/sol-client-glassmc](https://github.com/danterusdev/sol-client-glassmc) - 
 - [radioegor146/native-obfuscator](https://github.com/radioegor146/native-obfuscator) - Java .class to .cpp converter for use with JNI
