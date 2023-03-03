@@ -95,7 +95,7 @@
 
 ## EJS 
 
-- [jeopardization/Zyklon](https://github.com/jeopardization/Zyklon) - Free version of the Zyklon web-based ghost client. For Minecraft Forge 1.7.10 or 1.8.9
+- [jeopardization/Zyklon](https://github.com/jeopardization/Zyklon) - Free version of Zyklon, an injectable web-based ghost client for Minecraft Forge 1.7.10 or 1.8.9.
 
 ## Go 
 
