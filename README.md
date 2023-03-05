@@ -336,7 +336,6 @@
 ## Svelte 
 
 - [qewer33/qewer33.github.io](https://github.com/qewer33/qewer33.github.io) - My personal website built with Svelte and p5.js
-- [ManuelDeLeon/sveltekit-firebase-ssr](https://github.com/ManuelDeLeon/sveltekit-firebase-ssr) - 
 - [phptuts/firebase-sveltekit-recipe-site](https://github.com/phptuts/firebase-sveltekit-recipe-site) - 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 
@@ -367,6 +366,7 @@
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [FireDiscordBot/bot](https://github.com/FireDiscordBot/bot) - A Discord bot for all your needs. With memes, utilities, moderation & more, Fire is the only bot you'll need.
 - [cnstr/manifests](https://github.com/cnstr/manifests) - Authoritative list of classified repositories.
+- [ManuelDeLeon/sveltekit-firebase-ssr](https://github.com/ManuelDeLeon/sveltekit-firebase-ssr) - 
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites
 - [kernel-mod/installer-gui](https://github.com/kernel-mod/installer-gui) - A GUI installer for kernel-mod.
 - [ven/ven-earth](https://github.com/ven/ven-earth) - 🌍 My personal site created with Next.js and TailwindCSS.
