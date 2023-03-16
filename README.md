@@ -42,6 +42,7 @@
 
 ## C 
 
+- [plooshi/plooshfinder](https://github.com/plooshi/plooshfinder) - 
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [dora2-iOS/t8015_fakerootfs_homebutton](https://github.com/dora2-iOS/t8015_fakerootfs_homebutton) - 
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.3.1 (semi-)tethered checkm8 jailbreak
