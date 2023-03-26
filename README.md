@@ -317,6 +317,7 @@
 
 ## Shell 
 
+- [spv420/fastLLaMA](https://github.com/spv420/fastLLaMA) - get LLaMA fast -- sets up llama-dl and llama.cpp automatically.
 - [dhinakg/ellekit-builder](https://github.com/dhinakg/ellekit-builder) - 
 - [DanTheMann15/iBootLSD](https://github.com/DanTheMann15/iBootLSD) - A dumb script that endlessly loops bgcolor to make your device show "rainbows" in recovery.
 - [itsnebulalol/14.8.1-ipsw](https://github.com/itsnebulalol/14.8.1-ipsw) - Script to create a 14.8.1 IPSW used for a pwned restore.
