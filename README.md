@@ -179,7 +179,6 @@
 - [anmol098/npx_card](https://github.com/anmol098/npx_card) - use npx anmol to connect with me
 - [xrr2016/tata](https://github.com/xrr2016/tata) - 简洁的toast提示
 - [itsnebulalol/code-folder-generator](https://github.com/itsnebulalol/code-folder-generator) - 🖱 Simplify your life with Code Folder Generator. Automatically create a perfect environment based on pre-made templates.
-- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [Geometrically/fabric-test-runner](https://github.com/Geometrically/fabric-test-runner) - A test runner for mods using the fabric framework allowing for Minecraft Mods to use CI/CD!
 - [rjstone/discord-webhook-notify](https://github.com/rjstone/discord-webhook-notify) - Sends a notification to discord using a webhook URL. It is written in JavaScript so it will work with windows, osx, and linux execution environments.
 - [powercord-org/powercord](https://github.com/powercord-org/powercord) - A lightweight @discord client mod focused on simplicity and performance.
@@ -385,6 +384,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [ZeppelinBot/Zeppelin](https://github.com/ZeppelinBot/Zeppelin) - Zeppelin is a moderation bot for Discord, designed with large servers and reliability in mind.
 - [hivenapp/hiven.js](https://github.com/hivenapp/hiven.js) - Project on hold until Hiven API v1.0 is moved from alpha to stable | Framework for creating bots on Hiven
+- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [mateothegreat/discord-bot-typescript-autobot](https://github.com/mateothegreat/discord-bot-typescript-autobot) - Discord bot written with TypeScript
 - [DBuit/Homekit-panel-card](https://github.com/DBuit/Homekit-panel-card) - Homekit panel card for home assistant
