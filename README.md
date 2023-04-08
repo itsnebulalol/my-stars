@@ -258,6 +258,7 @@
 
 ## Python 
 
+- [0xallie/sora](https://github.com/0xallie/sora) - Multi-functional Discord bot
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [LiveWaffle/JellyStatus](https://github.com/LiveWaffle/JellyStatus) - 
 - [LuzProject/luz](https://github.com/LuzProject/luz) - Build system targeting Apple Darwin-based OSes.
