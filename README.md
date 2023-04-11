@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -36,10 +35,6 @@
 - [Visual Basic .NET](#visual-basic-.net)
 - [YAML](#yaml)
 
-## Astro 
-
-- [itsnebulalol/itsnebula.net](https://github.com/itsnebulalol/itsnebula.net) - My personal website written with Astro.
-
 ## Batchfile 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
@@ -50,7 +45,7 @@
 - [plooshi/plooshfinder](https://github.com/plooshi/plooshfinder) - 
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [dora2-iOS/t8015_fakerootfs_homebutton](https://github.com/dora2-iOS/t8015_fakerootfs_homebutton) - 
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.3.1 semi-tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.4 semi-tethered checkm8 jailbreak
 - [asdfugil/haxx](https://github.com/asdfugil/haxx) - Untethered + Unsandboxed code execution haxx as root on iOS 14 - iOS 14.8.1.
 - [opa334/sandbox_extension_generator](https://github.com/opa334/sandbox_extension_generator) - iOS 15.0 - 15.3.1 sandbox escape technique using kernel read/write primitives
 - [potmdehex/multicast_bytecopy](https://github.com/potmdehex/multicast_bytecopy) - kernel r/w exploit for iOS 15.0 - 15.1.1
@@ -263,6 +258,7 @@
 
 ## Python 
 
+- [itsnebulalol/modempatcher](https://github.com/itsnebulalol/modempatcher) - Band 77 patcher for the OnePlus 9 and 9 Pro.
 - [0xallie/sora](https://github.com/0xallie/sora) - Multi-functional Discord bot
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [LiveWaffle/JellyStatus](https://github.com/LiveWaffle/JellyStatus) - 
@@ -374,6 +370,7 @@
 
 ## TypeScript 
 
+- [itsnebulalol/itsnebula.net](https://github.com/itsnebulalol/itsnebula.net) - My personal website written with Astro.
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [FireDiscordBot/bot](https://github.com/FireDiscordBot/bot) - A Discord bot for all your needs. With memes, utilities, moderation & more, Fire is the only bot you'll need.
