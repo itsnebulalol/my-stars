@@ -258,6 +258,7 @@
 
 ## Python 
 
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [itsnebulalol/modempatcher](https://github.com/itsnebulalol/modempatcher) - Band 77 patcher for the OnePlus 9 and 9 Pro.
 - [0xallie/sora](https://github.com/0xallie/sora) - Multi-functional Discord bot
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
