@@ -263,7 +263,7 @@
 - [0xallie/sora](https://github.com/0xallie/sora) - Multi-functional Discord bot
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [LiveWaffle/JellyStatus](https://github.com/LiveWaffle/JellyStatus) - 
-- [LuzProject/luz](https://github.com/LuzProject/luz) - Build system targeting Apple Darwin-based OSes.
+- [LuzProject/luz](https://github.com/LuzProject/luz) - Build system targeting Apple Darwin-based operating systems.
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [mineek/sunst0rm](https://github.com/mineek/sunst0rm) - iOS Tether Downgrader
 - [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild) - A PyPI to PKGBUILD converter.
