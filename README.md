@@ -42,6 +42,7 @@
 
 ## C 
 
+- [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
 - [plooshi/plooshfinder](https://github.com/plooshi/plooshfinder) - 
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [dora2-iOS/t8015_fakerootfs_homebutton](https://github.com/dora2-iOS/t8015_fakerootfs_homebutton) - 
@@ -200,6 +201,7 @@
 
 ## Logos 
 
+- [palera1n/rootlesshooks](https://github.com/palera1n/rootlesshooks) - stolen fugu15 code for palera1n
 - [haoict/tiktok-god](https://github.com/haoict/tiktok-god) - 🎶 The best free & open source tweak for TikTok app on iOS
 - [haoict/instagram-no-ads](https://github.com/haoict/instagram-no-ads) - 📸 Tweak to remove ads on Instagram app for iOS!
 
