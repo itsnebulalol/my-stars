@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -34,6 +35,10 @@
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
 - [YAML](#yaml)
+
+## Astro 
+
+- [itsnebulalol/itsnebula.net](https://github.com/itsnebulalol/itsnebula.net) - My personal website written with Astro.
 
 ## Batchfile 
 
@@ -374,7 +379,6 @@
 ## TypeScript 
 
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [itsnebulalol/itsnebula.net](https://github.com/itsnebulalol/itsnebula.net) - My personal website written with Astro.
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [FireDiscordBot/bot](https://github.com/FireDiscordBot/bot) - A Discord bot for all your needs. With memes, utilities, moderation & more, Fire is the only bot you'll need.
