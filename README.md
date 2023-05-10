@@ -76,6 +76,7 @@
 
 ## C++ 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [Cryptiiiic/Tatsu](https://github.com/Cryptiiiic/Tatsu) - Tatsu(pytatsu): A C++ library/CLI tool for requesting and saving shsh blobs from apple's tatsu signing server api.
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps for video game consoles
@@ -268,7 +269,6 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [itsnebulalol/modempatcher](https://github.com/itsnebulalol/modempatcher) - Band 77 patcher for the OnePlus 9 and 9 Pro.
 - [0xallie/sora](https://github.com/0xallie/sora) - Multi-functional Discord bot
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [LiveWaffle/JellyStatus](https://github.com/LiveWaffle/JellyStatus) - 
 - [LuzProject/luz](https://github.com/LuzProject/luz) - Build system targeting Apple Darwin-based operating systems.
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
