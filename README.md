@@ -363,6 +363,7 @@
 
 ## Swift 
 
+- [EthanLipnik/Acrylic](https://github.com/EthanLipnik/Acrylic) - 
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [evelyneee/ellekit](https://github.com/evelyneee/ellekit) - yet another tweak injector / tweak hooking library for darwin systems
 - [sourcelocation/TrollTools](https://github.com/sourcelocation/TrollTools) - TrollTools - Revolutionizing iOS 15 customisation
