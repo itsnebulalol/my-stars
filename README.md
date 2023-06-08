@@ -375,7 +375,7 @@
 - [ginsudev/ProtectedBrowser](https://github.com/ginsudev/ProtectedBrowser) - Prevent JS injection on third party in-app browsers (instagram, TikTok, etc).
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [SerenaKit/Santander](https://github.com/SerenaKit/Santander) - A new, enhanced File Manager for iOS devices
-- [Sileo/Sileo](https://github.com/Sileo/Sileo) - A modern package manager for iOS 12 and higher.
+- [Sileo/Sileo](https://github.com/Sileo/Sileo) - A modern package manager for iOS 11 and higher.
 - [midnightchip/PermaFrost](https://github.com/midnightchip/PermaFrost) - 
 - [powenn/permasigneriOS](https://github.com/powenn/permasigneriOS) - permasigner on iOS
 - [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
