@@ -48,7 +48,6 @@
 
 ## C 
 
-- [Ingan121/FSUntether](https://github.com/Ingan121/FSUntether) - Fucking Simple Untether for iOS 15-17
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
 - [plooshi/plooshfinder](https://github.com/plooshi/plooshfinder) - 
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
@@ -225,6 +224,7 @@
 
 ## Objective-C 
 
+- [Ingan121/FSUntether](https://github.com/Ingan121/FSUntether) - Fucking Simple Untether for iOS 15-17
 - [opa334/AltList](https://github.com/opa334/AltList) - A modern AppList alternative
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [opa334/opainject](https://github.com/opa334/opainject) - iOS runtime dylib injection tool
