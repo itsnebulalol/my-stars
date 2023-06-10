@@ -35,6 +35,7 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
+- [Vue](#vue)
 - [YAML](#yaml)
 
 ## Astro 
@@ -364,6 +365,7 @@
 
 ## Swift 
 
+- [sourcelocation/pinanim](https://github.com/sourcelocation/pinanim) - Jailbreak iOS tweak: Animations for Pin Dots on Lock Screen
 - [EthanLipnik/Acrylic](https://github.com/EthanLipnik/Acrylic) - 
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [evelyneee/ellekit](https://github.com/evelyneee/ellekit) - yet another tweak injector / tweak hooking library for darwin systems
@@ -387,6 +389,7 @@
 
 ## TypeScript 
 
+- [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
@@ -414,6 +417,10 @@
 ## Visual Basic .NET 
 
 - [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
+
+## Vue 
+
+- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 
 ## YAML 
 
