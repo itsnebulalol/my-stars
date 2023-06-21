@@ -336,6 +336,7 @@
 
 ## Shell 
 
+- [palera1n/install-script](https://github.com/palera1n/install-script) - 
 - [krummm/void-install-script](https://github.com/krummm/void-install-script) - Shell script installer for Void Linux
 - [spv420/fastLLaMA](https://github.com/spv420/fastLLaMA) - get LLaMA fast -- sets up llama-dl and llama.cpp automatically.
 - [dhinakg/ellekit-builder](https://github.com/dhinakg/ellekit-builder) - 
