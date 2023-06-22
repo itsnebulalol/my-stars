@@ -113,6 +113,7 @@
 
 ## Go 
 
+- [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [blacktop/go-apfs](https://github.com/blacktop/go-apfs) - APFS parser written in pure Go
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [shyiko/jabba](https://github.com/shyiko/jabba) - (cross-platform) Java Version Manager
@@ -238,6 +239,7 @@
 
 ## Others 
 
+- [itsnebulalol/tailscale-deploy](https://github.com/itsnebulalol/tailscale-deploy) - Ansible playbook to deploy Tailscale with SSH and Exit Node enabled on 1 or more machines.
 - [w0lfschild/macOS_headers](https://github.com/w0lfschild/macOS_headers) - :books: A consistently maintained dump of most macOS Headers
 - [CathyKMeow/rosetta-linux-asahi](https://github.com/CathyKMeow/rosetta-linux-asahi) - Hacked RosettaLinux that runs on Asahi Linux
 - [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
@@ -368,6 +370,7 @@
 
 ## Swift 
 
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [sourcelocation/pinanim](https://github.com/sourcelocation/pinanim) - Jailbreak iOS tweak: Animations for Pin Dots on Lock Screen
 - [EthanLipnik/Acrylic](https://github.com/EthanLipnik/Acrylic) - 
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
