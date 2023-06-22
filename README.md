@@ -274,7 +274,7 @@
 
 ## Python 
 
-- [VigoKrumins/hass-config](https://github.com/VigoKrumins/hass-config) - Configuration of Home Assistant
+- [VigoKrumins/hass-config](https://github.com/VigoKrumins/hass-config) - A minimalist Home Assistant configuration with a clean UI. Enjoy a comprehensive set of configurations and a thoughtfully designed dashboard. Minimize reliance on external plugins while maximizing sim
 - [N0rz3/Zehef](https://github.com/N0rz3/Zehef) - Zehef is an osint tool to track emails
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [itsnebulalol/modempatcher](https://github.com/itsnebulalol/modempatcher) - Band 77 patcher for the OnePlus 9 and 9 Pro.
