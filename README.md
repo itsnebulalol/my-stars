@@ -394,6 +394,7 @@
 
 ## TypeScript 
 
+- [quickvids/replugged-plugin](https://github.com/quickvids/replugged-plugin) - A plugin that allows for embedding TikTok before a message sends.
 - [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
