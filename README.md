@@ -111,6 +111,7 @@
 
 ## Go 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [blacktop/go-apfs](https://github.com/blacktop/go-apfs) - APFS parser written in pure Go
@@ -226,6 +227,7 @@
 
 ## Objective-C 
 
+- [Traurige/Tweak-Archive](https://github.com/Traurige/Tweak-Archive) - An archive of my released/unreleased tweaks どういたしまして
 - [opa334/AltList](https://github.com/opa334/AltList) - A modern AppList alternative
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [opa334/opainject](https://github.com/opa334/opainject) - iOS runtime dylib injection tool
