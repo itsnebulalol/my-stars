@@ -216,6 +216,7 @@
 
 ## Logos 
 
+- [nahtedetihw/ArtFull](https://github.com/nahtedetihw/ArtFull) - Make the Apple Music app look like iOS 17!
 - [palera1n/rootlesshooks](https://github.com/palera1n/rootlesshooks) - stolen fugu15 code for palera1n
 - [haoict/tiktok-god](https://github.com/haoict/tiktok-god) - 🎶 The best free & open source tweak for TikTok app on iOS
 - [haoict/instagram-no-ads](https://github.com/haoict/instagram-no-ads) - 📸 Tweak to remove ads on Instagram app for iOS!
@@ -227,6 +228,7 @@
 
 ## Objective-C 
 
+- [mineek/MineekStore](https://github.com/mineek/MineekStore) - 
 - [Traurige/Tweak-Archive](https://github.com/Traurige/Tweak-Archive) - An archive of my released/unreleased tweaks どういたしまして
 - [opa334/AltList](https://github.com/opa334/AltList) - A modern AppList alternative
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
