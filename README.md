@@ -54,7 +54,7 @@
 - [plooshi/plooshfinder](https://github.com/plooshi/plooshfinder) - 
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [dora2-iOS/t8015_fakerootfs_homebutton](https://github.com/dora2-iOS/t8015_fakerootfs_homebutton) - 
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5 semi-tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5.1 semi-tethered checkm8 jailbreak
 - [asdfugil/haxx](https://github.com/asdfugil/haxx) - Untethered + Unsandboxed code execution haxx as root on iOS 14 - iOS 14.8.1.
 - [opa334/sandbox_extension_generator](https://github.com/opa334/sandbox_extension_generator) - iOS 15.0 - 15.3.1 sandbox escape technique using kernel read/write primitives
 - [potmdehex/multicast_bytecopy](https://github.com/potmdehex/multicast_bytecopy) - kernel r/w exploit for iOS 15.0 - 15.1.1
