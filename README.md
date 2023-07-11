@@ -49,6 +49,7 @@
 
 ## C 
 
+- [mineek/openra1n](https://github.com/mineek/openra1n) - 
 - [Ingan121/FSUntether](https://github.com/Ingan121/FSUntether) - Fucking Simple Untether for iOS 15-17
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
 - [plooshi/plooshfinder](https://github.com/plooshi/plooshfinder) - 
