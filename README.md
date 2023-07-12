@@ -140,7 +140,6 @@
 - [danterusdev/sol-client-glassmc](https://github.com/danterusdev/sol-client-glassmc) - 
 - [radioegor146/native-obfuscator](https://github.com/radioegor146/native-obfuscator) - Java .class to .cpp converter for use with JNI
 - [Decencies/LunarRemapper](https://github.com/Decencies/LunarRemapper) - The Mixin re-mapper for Lunar Client.
-- [Decencies/LunarClient](https://github.com/Decencies/LunarClient) - Source code for the 2021 Lunar remap
 - [Qalcyo-Archive/ForgeModTemplate](https://github.com/Qalcyo-Archive/ForgeModTemplate) - A template for MinecraftForge mods
 - [DeDiamondPro/HyCord](https://github.com/DeDiamondPro/HyCord) - HyCord is a minecraft mod that aims for discord and hypixel integration
 - [egirlfrosty/ClientBase](https://github.com/egirlfrosty/ClientBase) - A simple mixin client base for beginners.
