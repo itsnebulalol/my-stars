@@ -211,7 +211,7 @@
 ## Kotlin 
 
 - [jahirfiquitiva/Blueprint](https://github.com/jahirfiquitiva/Blueprint) - Free, feature-rich, easily customizable Android dashboard for icon packs
-- [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
+- [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [sorusclient/client](https://github.com/sorusclient/client) - 
 - [AgentRKID/Hypixel-MiddleMan-API](https://github.com/AgentRKID/Hypixel-MiddleMan-API) - Automatic caches of hypixels data without spamming their API with same requests
 
