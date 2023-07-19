@@ -210,6 +210,7 @@
 
 ## Kotlin 
 
+- [MicrocontrollersDev/Mixmetica](https://github.com/MicrocontrollersDev/Mixmetica) - A simple mixin mod that adds Arcmetica support directly into OptiFine. No more need for DNS rules.
 - [jahirfiquitiva/Blueprint](https://github.com/jahirfiquitiva/Blueprint) - Free, feature-rich, easily customizable Android dashboard for icon packs
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [sorusclient/client](https://github.com/sorusclient/client) - 
