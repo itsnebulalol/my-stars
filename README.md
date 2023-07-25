@@ -126,7 +126,7 @@
 ## HTML 
 
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
-- [sukarodo/repo.me](https://github.com/sukarodo/repo.me) - a modern apt repository template built by the community
+- [uchks/repo.me](https://github.com/uchks/repo.me) - a modern apt repository template built by the community
 - [SamuelScheit/discord-bot-client](https://github.com/SamuelScheit/discord-bot-client) - A patched version of discord, with bot login support
 
 ## Java 
