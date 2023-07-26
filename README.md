@@ -90,7 +90,6 @@
 
 ## CSS 
 
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga!
 - [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
 - [matchakuya/noblockedmsg](https://github.com/matchakuya/noblockedmsg) - Gets rid of the blocked message placeholder on Discord
@@ -287,6 +286,7 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [itsnebulalol/modempatcher](https://github.com/itsnebulalol/modempatcher) - Band 77 patcher for the OnePlus 9 and 9 Pro.
 - [0xallie/sora](https://github.com/0xallie/sora) - Multi-functional Discord bot
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [LiveWaffle/JellyStatus](https://github.com/LiveWaffle/JellyStatus) - 
 - [LuzProject/luz](https://github.com/LuzProject/luz) - Build system targeting Apple Darwin-based operating systems.
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
