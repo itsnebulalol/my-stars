@@ -345,6 +345,7 @@
 
 ## Shell 
 
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [eatingurtoes/g1lbertCFW](https://github.com/eatingurtoes/g1lbertCFW) - The first untethered jailbreak for all versions of iOS 5.
 - [palera1n/install-script](https://github.com/palera1n/install-script) - 
 - [spv420/fastLLaMA](https://github.com/spv420/fastLLaMA) - get LLaMA fast -- sets up llama-dl and llama.cpp automatically.
