@@ -49,6 +49,7 @@
 
 ## C 
 
+- [opa334/kfd](https://github.com/opa334/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
 - [akemin-dayo/AppSync](https://github.com/akemin-dayo/AppSync) - Unified AppSync dynamic library for iOS 5 and above.
 - [mineek/openra1n](https://github.com/mineek/openra1n) - 
 - [Ingan121/FSUntether](https://github.com/Ingan121/FSUntether) - Fucking Simple Untether for iOS 15-17
