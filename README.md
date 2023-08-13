@@ -168,7 +168,7 @@
 - [superblaubeere27/obfuscator](https://github.com/superblaubeere27/obfuscator) - A java obfuscator (GUI)
 - [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
-- [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/
 - [Moulberry/NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates) - 
 - [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
