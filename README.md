@@ -157,7 +157,7 @@
 - [montoyo/mcef](https://github.com/montoyo/mcef) - Minecraft ChromiumEF (based on JCEF)
 - [JDiscordBots/Me-e--bypasser](https://github.com/JDiscordBots/Me-e--bypasser) - This Discord Bot bypasses a premium feature of the Bot Mee6, so that you can use it for free.
 - [BananaFructa/Apec](https://github.com/BananaFructa/Apec) - A Gui improvment mod for Hypixel Skyblock
-- [ViaVersion/ViaRewind](https://github.com/ViaVersion/ViaRewind) - Allow 1.8.x and 1.7.x on your server.
+- [ViaVersion/ViaRewind](https://github.com/ViaVersion/ViaRewind) - ViaVersion addon to allow 1.8.x and 1.7.x clients on newer server versions.
 - [AlephInfinity1/ForgeBlock](https://github.com/AlephInfinity1/ForgeBlock) - A recreation of Hypixel SkyBlock using Minecraft Forge. Credits to Hypixel for the original game. (Heavily WIP, do not download) NOTE: THIS IS NOT A HELPER MOD, PLEASE DO NOT PLAY ON HYPIXEL WITH THIS
 - [MrCrayfish/MrCrayfishFurnitureMod](https://github.com/MrCrayfish/MrCrayfishFurnitureMod) - A Furniture Mod for Minecraft. Download ▶
 - [egold555/SupportServerModerationBot](https://github.com/egold555/SupportServerModerationBot) - Bots for my Discord support server
