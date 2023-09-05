@@ -82,6 +82,7 @@
 
 ## C++ 
 
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [Cryptiiiic/Tatsu](https://github.com/Cryptiiiic/Tatsu) - Tatsu: A C++ library/CLI tool for requesting and saving shsh blobs from apple's tatsu signing server api.
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
@@ -178,6 +179,7 @@
 
 ## JavaScript 
 
+- [littlebyteorg/appledb](https://github.com/littlebyteorg/appledb) - 
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [natsu-anon/STOWAWAY](https://github.com/natsu-anon/STOWAWAY) - E2E PGP Encryption layer for discord focused on ease-of-use via bots
