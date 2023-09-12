@@ -179,6 +179,7 @@
 
 ## JavaScript 
 
+- [blueagler/QuillBot-Premium-Crack](https://github.com/blueagler/QuillBot-Premium-Crack) - Unlock: Paraphrase unlimited words, 7 Writing mode , 4 Synonyms options, 6000 Summarizer word limit, 15 Sentences processed at once, Unlimited Freeze Words and phrases (101k active users' choices)
 - [littlebyteorg/appledb](https://github.com/littlebyteorg/appledb) - 
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
