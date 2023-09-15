@@ -413,7 +413,7 @@
 
 ## TypeScript 
 
-- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [quickvids/replugged-plugin](https://github.com/quickvids/replugged-plugin) - A plugin that allows for embedding TikTok before a message sends.
 - [aidenybai/million](https://github.com/aidenybai/million) - Make React Faster. Automatically.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
