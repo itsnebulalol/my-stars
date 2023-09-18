@@ -412,6 +412,7 @@
 
 ## TypeScript 
 
+- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 30,000 supported emoji mashups as part of Google's Emoji Kitche
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [quickvids/replugged-plugin](https://github.com/quickvids/replugged-plugin) - A plugin that allows for embedding TikTok before a message sends.
 - [aidenybai/million](https://github.com/aidenybai/million) - Make React Faster. Automatically.
