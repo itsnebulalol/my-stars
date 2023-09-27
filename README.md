@@ -293,7 +293,7 @@
 
 ## Python 
 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [beeper/pypush](https://github.com/beeper/pypush) - Cross-platform iMessage POC
 - [eatingurtoes/g1lbertCFW](https://github.com/eatingurtoes/g1lbertCFW) - The first untethered jailbreak for all versions of iOS 5.
 - [VigoKrumins/hass-config](https://github.com/VigoKrumins/hass-config) - A minimalist Home Assistant configuration with a clean UI. Enjoy a comprehensive set of configurations and a thoughtfully designed dashboard. Minimize reliance on external plugins while maximizing sim
