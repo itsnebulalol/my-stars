@@ -383,7 +383,7 @@
 - [duraki/SketchCrapp](https://github.com/duraki/SketchCrapp) - SketchCrapp - Crack your Sketch.app in seconds :) Supports MacOS Big Sur.
 - [pterodactyl-installer/pterodactyl-installer](https://github.com/pterodactyl-installer/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
 - [hwittenborn/Juice](https://github.com/hwittenborn/Juice) - A port of the Papirus icon theme to iOS
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## Svelte 
 
