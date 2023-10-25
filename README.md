@@ -438,7 +438,7 @@
 - [fireship-io/node-blockchain](https://github.com/fireship-io/node-blockchain) - Blockchain Cryptocurrency Implemented with Node & TypeScript
 - [conaticus/opal](https://github.com/conaticus/opal) - A content management system designed for web developers who wish to simplify their job whilst having a large portion control over web applications.
 - [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [ZeppelinBot/Zeppelin](https://github.com/ZeppelinBot/Zeppelin) - Zeppelin is a moderation bot for Discord, designed with large servers and reliability in mind.
 - [hivenapp/hiven.js](https://github.com/hivenapp/hiven.js) - Project on hold until Hiven API v1.0 is moved from alpha to stable | Framework for creating bots on Hiven
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
