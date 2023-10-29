@@ -254,7 +254,7 @@
 
 ## Others 
 
-- [debridmediamanager/zurg-testing](https://github.com/debridmediamanager/zurg-testing) - 
+- [debridmediamanager/zurg-testing](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex.
 - [insertish/awesome-revolt](https://github.com/insertish/awesome-revolt) - Collection of Revolt libraries, bots, clients and other cool stuff.
 - [itsnebulalol/tailscale-deploy](https://github.com/itsnebulalol/tailscale-deploy) - Ansible playbook to deploy Tailscale with SSH and Exit Node enabled on 1 or more machines.
 - [w0lfschild/macOS_headers](https://github.com/w0lfschild/macOS_headers) - :books: A consistently maintained dump of most macOS Headers
