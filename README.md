@@ -20,6 +20,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Logos](#logos)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -232,6 +233,10 @@
 - [haoict/tiktok-god](https://github.com/haoict/tiktok-god) - 🎶 The best free & open source tweak for TikTok app on iOS
 - [haoict/instagram-no-ads](https://github.com/haoict/instagram-no-ads) - 📸 Tweak to remove ads on Instagram app for iOS!
 
+## MDX 
+
+- [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
+
 ## Makefile 
 
 - [debridmediamanager/zurg-testing](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex.
@@ -433,7 +438,6 @@
 - [kernel-mod/installer-gui](https://github.com/kernel-mod/installer-gui) - A GUI installer for kernel-mod.
 - [ven/ven-earth](https://github.com/ven/ven-earth) - 🌍 My personal site created with Next.js and TailwindCSS.
 - [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushi 2.0 🍣
-- [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
 - [revoltchat/revite](https://github.com/revoltchat/revite) - Revolt client built with Preact.
 - [fireship-io/node-blockchain](https://github.com/fireship-io/node-blockchain) - Blockchain Cryptocurrency Implemented with Node & TypeScript
 - [conaticus/opal](https://github.com/conaticus/opal) - A content management system designed for web developers who wish to simplify their job whilst having a large portion control over web applications.
