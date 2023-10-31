@@ -276,7 +276,6 @@
 - [itsnebulalol/minimalize-issue-tracker](https://github.com/itsnebulalol/minimalize-issue-tracker) - Minimalize is a hand-crafted theme for jailbroken iOS.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
-- [trevordmiller/npm-script-naming-ideas](https://github.com/trevordmiller/npm-script-naming-ideas) - Ideas for naming npm scripts
 
 ## PHP 
 
