@@ -138,6 +138,7 @@
 
 ## Java 
 
+- [MicrocontrollersDev/Mixmetica](https://github.com/MicrocontrollersDev/Mixmetica) - A simple mixin mod that adds Arcmetica support directly into OptiFine. No more need for DNS rules.
 - [TecknixClient/Mod-Integration-API](https://github.com/TecknixClient/Mod-Integration-API) - Allows direct integration into any Forge or Fabric mod.
 - [Sk1erLLC/OldAnimations](https://github.com/Sk1erLLC/OldAnimations) - 1.7 Animations in 1.8.
 - [nodusclient/gaslight](https://github.com/nodusclient/gaslight) - 
@@ -220,7 +221,6 @@
 
 ## Kotlin 
 
-- [MicrocontrollersDev/Mixmetica](https://github.com/MicrocontrollersDev/Mixmetica) - A simple mixin mod that adds Arcmetica support directly into OptiFine. No more need for DNS rules.
 - [jahirfiquitiva/Blueprint](https://github.com/jahirfiquitiva/Blueprint) - Free, feature-rich, easily customizable Android dashboard for icon packs
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [sorusclient/client](https://github.com/sorusclient/client) - 
