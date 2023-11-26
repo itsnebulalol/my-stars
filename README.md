@@ -260,7 +260,6 @@
 
 ## Others 
 
-- [debridmediamanager/zurg-testing](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
 - [insertish/awesome-revolt](https://github.com/insertish/awesome-revolt) - Collection of Revolt libraries, bots, clients and other cool stuff.
 - [itsnebulalol/tailscale-deploy](https://github.com/itsnebulalol/tailscale-deploy) - Ansible playbook to deploy Tailscale with SSH and Exit Node enabled on 1 or more machines.
 - [w0lfschild/macOS_headers](https://github.com/w0lfschild/macOS_headers) - :books: A consistently maintained dump of most macOS Headers
@@ -368,6 +367,7 @@
 
 ## Shell 
 
+- [debridmediamanager/zurg-testing](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [palera1n/install-script](https://github.com/palera1n/install-script) - 
 - [spv420/fastLLaMA](https://github.com/spv420/fastLLaMA) - get LLaMA fast -- sets up llama-dl and llama.cpp automatically.
