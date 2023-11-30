@@ -278,6 +278,7 @@
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [Decencies/Articles](https://github.com/Decencies/Articles) - 
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
+- [mackorone/spotify-playlist-archive](https://github.com/mackorone/spotify-playlist-archive) - Daily snapshots of public Spotify playlists
 - [itsnebulalol/minimalize-issue-tracker](https://github.com/itsnebulalol/minimalize-issue-tracker) - Minimalize is a hand-crafted theme for jailbroken iOS.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
@@ -329,7 +330,6 @@
 - [DiscordGIR/GIRRewrite](https://github.com/DiscordGIR/GIRRewrite) - 
 - [LawOff/Discord-Server-Cloner-OUTDATED-](https://github.com/LawOff/Discord-Server-Cloner-OUTDATED-) - A selfbot to a copy a discord server(without perms ofc) ... Give credits if you skid
 - [avilash/TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) - TikTok API Python Wrapper
-- [mackorone/spotify-playlist-archive](https://github.com/mackorone/spotify-playlist-archive) - Daily snapshots of public Spotify playlists
 - [hube12/DecompilerMC](https://github.com/hube12/DecompilerMC) - This repository allows you to decompile any minecraft version that was published after 19w36a without any 3rd party mappings, you just need to execute the script or the executable (see releases)! Than
 - [kiki7000/discord.py-components](https://github.com/kiki7000/discord.py-components) - An unofficial third-party library of discord.py for discord components.
 - [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
