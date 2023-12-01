@@ -356,7 +356,6 @@
 
 ## Rust 
 
-- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [danterusdev/tompl](https://github.com/danterusdev/tompl) - The Obvious Minimal Programming Language
