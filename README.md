@@ -326,7 +326,7 @@
 - [ja1dan/themer](https://github.com/ja1dan/themer) - A POC theme engine for macOS, written in Python.
 - [openairplay/airplay2-receiver](https://github.com/openairplay/airplay2-receiver) - AirPlay 2 Receiver - Python implementation
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-- [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies
+- [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN)
 - [DiscordGIR/GIRRewrite](https://github.com/DiscordGIR/GIRRewrite) - 
 - [LawOff/Discord-Server-Cloner-OUTDATED-](https://github.com/LawOff/Discord-Server-Cloner-OUTDATED-) - A selfbot to a copy a discord server(without perms ofc) ... Give credits if you skid
 - [avilash/TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) - TikTok API Python Wrapper
