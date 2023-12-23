@@ -59,7 +59,7 @@
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
 - [plooshi/plooshfinder](https://github.com/plooshi/plooshfinder) - 
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
-- [dora2-iOS/t8015_fakerootfs_homebutton](https://github.com/dora2-iOS/t8015_fakerootfs_homebutton) - 
+- [dora2ios/t8015_fakerootfs_homebutton](https://github.com/dora2ios/t8015_fakerootfs_homebutton) - 
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [asdfugil/haxx](https://github.com/asdfugil/haxx) - Untethered + Unsandboxed code execution haxx as root on iOS 14 - iOS 14.8.1.
