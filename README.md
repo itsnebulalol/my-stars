@@ -42,6 +42,7 @@
 ## Astro 
 
 - [itsnebulalol/itsnebula.net](https://github.com/itsnebulalol/itsnebula.net) - My personal website written with Astro.
+- [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 
 ## Batchfile 
 
@@ -264,7 +265,6 @@
 - [itsnebulalol/tailscale-deploy](https://github.com/itsnebulalol/tailscale-deploy) - Ansible playbook to deploy Tailscale with SSH and Exit Node enabled on 1 or more machines.
 - [w0lfschild/macOS_headers](https://github.com/w0lfschild/macOS_headers) - :books: A consistently maintained dump of most macOS Headers
 - [CathyKMeow/rosetta-linux-asahi](https://github.com/CathyKMeow/rosetta-linux-asahi) - Hacked RosettaLinux that runs on Asahi Linux
-- [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 - [itsnebulalol/deb-to-ipa](https://github.com/itsnebulalol/deb-to-ipa) - ▶️ Convert an application from a deb to an IPA with a GitHub workflow.
 - [mineek/trollbrek](https://github.com/mineek/trollbrek) - 
 - [permasigner/action](https://github.com/permasigner/action) - ▶️ GitHub action for Permasigner, useful for CI/CD.
