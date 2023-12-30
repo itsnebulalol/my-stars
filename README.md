@@ -299,6 +299,7 @@
 
 ## Python 
 
+- [m1stadev/apple-compress](https://github.com/m1stadev/apple-compress) - Python bindings for Apple's libcompression.
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC
 - [eatingurtoes/g1lbertCFW](https://github.com/eatingurtoes/g1lbertCFW) - The first untethered jailbreak for all versions of iOS 5.
