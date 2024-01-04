@@ -299,6 +299,7 @@
 
 ## Python 
 
+- [I-am-PUID-0/pd_zurg](https://github.com/I-am-PUID-0/pd_zurg) - 
 - [m1stadev/apple-compress](https://github.com/m1stadev/apple-compress) - Python bindings for Apple's libcompression.
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC
@@ -357,6 +358,7 @@
 
 ## Rust 
 
+- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [danterusdev/tompl](https://github.com/danterusdev/tompl) - The Obvious Minimal Programming Language
