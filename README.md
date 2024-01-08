@@ -51,6 +51,7 @@
 
 ## C 
 
+- [mineek/Serotonin](https://github.com/mineek/Serotonin) - 
 - [Odyssey-Team/Taurine](https://github.com/Odyssey-Team/Taurine) - iOS 14 semi-untethered jailbreak
 - [mineek/kfd](https://github.com/mineek/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
 - [opa334/kfd](https://github.com/opa334/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
