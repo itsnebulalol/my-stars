@@ -187,6 +187,7 @@
 
 ## JavaScript 
 
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [blueagler/QuillBot-Premium-Crack](https://github.com/blueagler/QuillBot-Premium-Crack) - Unlock: Paraphrase unlimited words, 7 Writing mode , 4 Synonyms options, 6000 Summarizer word limit, 15 Sentences processed at once, Unlimited Freeze Words and phrases (101k active users' choices)
 - [littlebyteorg/appledb](https://github.com/littlebyteorg/appledb) - 
