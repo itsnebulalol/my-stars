@@ -52,6 +52,7 @@
 
 ## C 
 
+- [opa334/ChOma](https://github.com/opa334/ChOma) - C library for manipulating MachO/FAT files and their code signatures
 - [mineek/Serotonin](https://github.com/mineek/Serotonin) - 
 - [Odyssey-Team/Taurine](https://github.com/Odyssey-Team/Taurine) - iOS 14 semi-untethered jailbreak
 - [mineek/kfd](https://github.com/mineek/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
@@ -368,6 +369,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
