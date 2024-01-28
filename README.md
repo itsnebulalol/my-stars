@@ -313,7 +313,6 @@
 ## Python 
 
 - [dreulavelle/iceberg](https://github.com/dreulavelle/iceberg) - Plex Debrid Rewrite (WIP)
-- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a Kubernetes cluster backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 - [stekc/Keto-Bot](https://github.com/stekc/Keto-Bot) - 
 - [I-am-PUID-0/pd_zurg](https://github.com/I-am-PUID-0/pd_zurg) - A combined docker image for the unified deployment of itsToggle's, yowmamasita's, and ncw's projects -- plex_debrid, zurg, and rclone
 - [m1stadev/apple-compress](https://github.com/m1stadev/apple-compress) - Python bindings for Apple's libcompression.
@@ -386,6 +385,7 @@
 
 ## Shell 
 
+- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a Kubernetes cluster backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)
 - [debridmediamanager/zurg-testing](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
