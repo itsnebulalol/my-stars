@@ -56,6 +56,7 @@
 - [opa334/ChOma](https://github.com/opa334/ChOma) - C library for manipulating MachO/FAT files and their code signatures
 - [mineek/Serotonin](https://github.com/mineek/Serotonin) - 
 - [Odyssey-Team/Taurine](https://github.com/Odyssey-Team/Taurine) - iOS 14 semi-untethered jailbreak
+- [khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run unsigned iOS app without actually installing it!
 - [mineek/kfd](https://github.com/mineek/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
 - [opa334/kfd](https://github.com/opa334/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
 - [akemin-dayo/AppSync](https://github.com/akemin-dayo/AppSync) - Unified AppSync dynamic library for iOS 5 and above.
@@ -259,7 +260,6 @@
 ## Objective-C 
 
 - [ios-control/ios-deploy](https://github.com/ios-control/ios-deploy) - Install and debug iPhone apps from the command line, without using Xcode
-- [khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run unsigned iOS app without actually installing it!
 - [mineek/MineekStore](https://github.com/mineek/MineekStore) - 
 - [vyolit/Tweak-Archive](https://github.com/vyolit/Tweak-Archive) - An archive for some of my old and unmaintained tweaks that are worth keeping.
 - [opa334/AltList](https://github.com/opa334/AltList) - A modern AppList alternative
