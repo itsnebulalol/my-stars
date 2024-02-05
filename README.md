@@ -312,6 +312,7 @@
 
 ## Python 
 
+- [devdetour/TelegramFUSE](https://github.com/devdetour/TelegramFUSE) - A FUSE filesystem written in Python for reading and writing files to and from Telegram.
 - [dreulavelle/iceberg](https://github.com/dreulavelle/iceberg) - Plex Debrid Rewrite (WIP)
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Kubernetes cluster with k3s or Talos
 - [stekc/Keto-Bot](https://github.com/stekc/Keto-Bot) - 
