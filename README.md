@@ -24,6 +24,7 @@
 - [Logos](#logos)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
 - [Others](#others)
@@ -256,6 +257,10 @@
 ## Makefile 
 
 - [ProcursusTeam/Procursus](https://github.com/ProcursusTeam/Procursus) - Modern *OS Bootstrap
+
+## Nix 
+
+- [n3oney/nixus](https://github.com/n3oney/nixus) - My NixOS configuration.
 
 ## Objective-C 
 
