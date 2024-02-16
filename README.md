@@ -63,7 +63,7 @@
 - [akemin-dayo/AppSync](https://github.com/akemin-dayo/AppSync) - Unified AppSync dynamic library for iOS 5 and above.
 - [mineek/openra1n](https://github.com/mineek/openra1n) - 
 - [Ingan121/FSUntether](https://github.com/Ingan121/FSUntether) - Fucking Simple Untether for iOS 15-17
-- [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
+- [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
 - [plooshi/plooshfinder](https://github.com/plooshi/plooshfinder) - 
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [dora2ios/t8015_fakerootfs_homebutton](https://github.com/dora2ios/t8015_fakerootfs_homebutton) - 
