@@ -422,6 +422,7 @@
 
 ## Svelte 
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [qewer33/qewer33.github.io](https://github.com/qewer33/qewer33.github.io) - My personal website built with Svelte and p5.js
 - [phptuts/firebase-sveltekit-recipe-site](https://github.com/phptuts/firebase-sveltekit-recipe-site) - 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
