@@ -261,6 +261,7 @@
 
 ## Nix 
 
+- [FlafyDev/combined-manager](https://github.com/FlafyDev/combined-manager) - NixOS personal configuration structure library
 - [n3oney/nixus](https://github.com/n3oney/nixus) - My NixOS configuration.
 
 ## Objective-C 
