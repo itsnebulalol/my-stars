@@ -160,7 +160,7 @@
 - [kb-1000/no-telemetry](https://github.com/kb-1000/no-telemetry) - Disable the telemetry introduced in 21w38a
 - [Sol-Client/client](https://github.com/Sol-Client/client) - A fairly good Minecraft client I guess!
 - [xCollateral/VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
-- [danterusdev/sol-client-glassmc](https://github.com/danterusdev/sol-client-glassmc) - 
+- [danielcastelluccio/sol-client-glassmc](https://github.com/danielcastelluccio/sol-client-glassmc) - 
 - [radioegor146/native-obfuscator](https://github.com/radioegor146/native-obfuscator) - Java .class to .cpp converter for use with JNI
 - [Decencies/LunarRemapper](https://github.com/Decencies/LunarRemapper) - The Mixin re-mapper for Lunar Client.
 - [Qalcyo-Archive/ForgeModTemplate](https://github.com/Qalcyo-Archive/ForgeModTemplate) - A template for MinecraftForge mods
@@ -387,7 +387,7 @@
 - [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [danterusdev/tompl](https://github.com/danterusdev/tompl) - The Obvious Minimal Programming Language
+- [danielcastelluccio/tompl](https://github.com/danielcastelluccio/tompl) - The Obvious Minimal Programming Language
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [edward-shen/bunbun](https://github.com/edward-shen/bunbun) - Self-hostable and configurable search/jump multiplexer service
