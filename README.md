@@ -67,7 +67,7 @@
 - [plooshi/plooshfinder](https://github.com/plooshi/plooshfinder) - 
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [dora2ios/t8015_fakerootfs_homebutton](https://github.com/dora2ios/t8015_fakerootfs_homebutton) - 
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11 devices, on iOS 15.0 and higher.
 - [asdfugil/haxx](https://github.com/asdfugil/haxx) - Untethered + Unsandboxed code execution haxx as root on iOS 14 - iOS 14.8.1.
 - [opa334/sandbox_extension_generator](https://github.com/opa334/sandbox_extension_generator) - iOS 15.0 - 15.3.1 sandbox escape technique using kernel read/write primitives
 - [potmdehex/multicast_bytecopy](https://github.com/potmdehex/multicast_bytecopy) - kernel r/w exploit for iOS 15.0 - 15.1.1
@@ -398,7 +398,7 @@
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Kubernetes cluster with k3s or Talos
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-- [palera1n/install-script](https://github.com/palera1n/install-script) - 
+- [palera1n/install.sh](https://github.com/palera1n/install.sh) - Palera1n basic install script
 - [spv420/fastLLaMA](https://github.com/spv420/fastLLaMA) - get LLaMA fast -- sets up llama-dl and llama.cpp automatically.
 - [dhinakg/ellekit-builder](https://github.com/dhinakg/ellekit-builder) - 
 - [DanTheMann15/iBootLSD](https://github.com/DanTheMann15/iBootLSD) - A dumb script that endlessly loops bgcolor to make your device show "rainbows" in recovery.
