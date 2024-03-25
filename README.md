@@ -324,6 +324,7 @@
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [devdetour/TelegramFUSE](https://github.com/devdetour/TelegramFUSE) - A FUSE filesystem written in Python for reading and writing files to and from Telegram.
 - [dreulavelle/iceberg](https://github.com/dreulavelle/iceberg) - Plex Debrid Rewrite (WIP)
+- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Kubernetes cluster with k3s or Talos
 - [stekc/Keto-Bot-Legacy](https://github.com/stekc/Keto-Bot-Legacy) - 
 - [I-am-PUID-0/pd_zurg](https://github.com/I-am-PUID-0/pd_zurg) - A combined docker image for the unified deployment of itsToggle's, yowmamasita's, and ncw's projects -- plex_debrid, zurg, and rclone
 - [m1stadev/apple-compress](https://github.com/m1stadev/apple-compress) - Python bindings for Apple's libcompression.
@@ -395,7 +396,6 @@
 ## Shell 
 
 - [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
-- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Kubernetes cluster with k3s or Talos
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [palera1n/install.sh](https://github.com/palera1n/install.sh) - Palera1n basic install script
