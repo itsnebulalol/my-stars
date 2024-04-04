@@ -54,6 +54,7 @@
 
 ## C 
 
+- [alfiecg24/TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
 - [opa334/ChOma](https://github.com/opa334/ChOma) - C library for manipulating MachO/FAT files and their code signatures
 - [mineek/Serotonin](https://github.com/mineek/Serotonin) - 
 - [Odyssey-Team/Taurine](https://github.com/Odyssey-Team/Taurine) - iOS 14 semi-untethered jailbreak
