@@ -273,7 +273,6 @@
 
 - [ios-control/ios-deploy](https://github.com/ios-control/ios-deploy) - Install and debug iPhone apps from the command line, without using Xcode
 - [mineek/MineekStore](https://github.com/mineek/MineekStore) - 
-- [vyolit/Tweak-Archive](https://github.com/vyolit/Tweak-Archive) - An archive for some of my old and unmaintained tweaks that are worth keeping.
 - [opa334/AltList](https://github.com/opa334/AltList) - A modern AppList alternative
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [opa334/opainject](https://github.com/opa334/opainject) - iOS runtime dylib injection tool
