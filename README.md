@@ -327,7 +327,6 @@
 - [devdetour/TelegramFUSE](https://github.com/devdetour/TelegramFUSE) - A FUSE filesystem written in Python for reading and writing files to and from Telegram.
 - [dreulavelle/iceberg](https://github.com/dreulavelle/iceberg) - Plex Debrid Rewrite (WIP)
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Kubernetes cluster with k3s or Talos
-- [stekc/Keto-Bot-Legacy](https://github.com/stekc/Keto-Bot-Legacy) - 
 - [I-am-PUID-0/pd_zurg](https://github.com/I-am-PUID-0/pd_zurg) - A combined docker image for the unified deployment of itsToggle's, yowmamasita's, and ncw's projects -- plex_debrid, zurg, and rclone
 - [m1stadev/apple-compress](https://github.com/m1stadev/apple-compress) - Python bindings for Apple's libcompression.
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
