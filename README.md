@@ -284,6 +284,7 @@
 
 ## Others 
 
+- [dreulavelle/Prowlarr-Indexers](https://github.com/dreulavelle/Prowlarr-Indexers) - Prowlarr Indexers used by Cardigann
 - [revoltchat/awesome-revolt](https://github.com/revoltchat/awesome-revolt) - Collection of Revolt libraries, bots, clients and other cool stuff.
 - [itsnebulalol/tailscale-deploy](https://github.com/itsnebulalol/tailscale-deploy) - Ansible playbook to deploy Tailscale with SSH and Exit Node enabled on 1 or more machines.
 - [w0lfschild/macOS_headers](https://github.com/w0lfschild/macOS_headers) - :books: A consistently maintained dump of most macOS Headers
