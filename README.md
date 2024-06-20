@@ -94,7 +94,7 @@
 ## C++ 
 
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [Cryptiiiic/Tatsu](https://github.com/Cryptiiiic/Tatsu) - Tatsu: A C++ library/CLI tool for requesting and saving shsh blobs from apple's tatsu signing server api.
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps
