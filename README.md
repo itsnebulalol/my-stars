@@ -57,7 +57,7 @@
 
 - [alfiecg24/TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
 - [opa334/ChOma](https://github.com/opa334/ChOma) - C library for manipulating MachO/FAT files and their code signatures
-- [mineek/Serotonin](https://github.com/mineek/Serotonin) - 
+- [SerotoninApp/Serotonin](https://github.com/SerotoninApp/Serotonin) - 
 - [Odyssey-Team/Taurine](https://github.com/Odyssey-Team/Taurine) - iOS 14 semi-untethered jailbreak
 - [mineek/kfd](https://github.com/mineek/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
 - [opa334/kfd](https://github.com/opa334/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
