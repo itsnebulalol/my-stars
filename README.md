@@ -324,6 +324,7 @@
 
 ## Python 
 
+- [westsurname/scripts](https://github.com/westsurname/scripts) - 
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [devdetour/TelegramFUSE](https://github.com/devdetour/TelegramFUSE) - A FUSE filesystem written in Python for reading and writing files to and from Telegram.
 - [rivenmedia/riven](https://github.com/rivenmedia/riven) - Handle your Media Library with ease!
