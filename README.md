@@ -292,7 +292,7 @@
 - [itsnebulalol/deb-to-ipa](https://github.com/itsnebulalol/deb-to-ipa) - ▶️ Convert an application from a deb to an IPA with a GitHub workflow.
 - [mineek/trollbrek](https://github.com/mineek/trollbrek) - 
 - [permasigner/action](https://github.com/permasigner/action) - ▶️ GitHub action for Permasigner, useful for CI/CD.
-- [beerpiss/procursus-action](https://github.com/beerpiss/procursus-action) - Bootstraps the Procursus toolchain on macOS runners
+- [beer-psi/procursus-action](https://github.com/beer-psi/procursus-action) - Bootstraps the Procursus toolchain on macOS runners
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - Enhance Your YouTube Experience
 - [techlore/go-incognito](https://github.com/techlore/go-incognito) - Go Incognito: A Guide to Security, Privacy, & Anonymity
@@ -319,7 +319,7 @@
 ## PowerShell 
 
 - [debridmediamanager/zurg-testing](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
-- [beerpiss/aptDL](https://github.com/beerpiss/aptDL) - Downloads Cydia repositories (with support for purchased packages)
+- [beer-psi/aptDL](https://github.com/beer-psi/aptDL) - Downloads Cydia repositories (with support for purchased packages)
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
 ## Python 
