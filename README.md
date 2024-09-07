@@ -49,7 +49,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 
 ## C 
@@ -361,7 +361,7 @@
 - [LawOff/Discord-Server-Cloner-OUTDATED-](https://github.com/LawOff/Discord-Server-Cloner-OUTDATED-) - A selfbot to a copy a discord server(without perms ofc) ... Give credits if you skid
 - [avilash/TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) - TikTok API Python Wrapper
 - [hube12/DecompilerMC](https://github.com/hube12/DecompilerMC) - This repository allows you to decompile any minecraft version that was published after 19w36a without any 3rd party mappings, you just need to execute the script or the executable (see releases)! Than
-- [kiki7000/discord.py-components](https://github.com/kiki7000/discord.py-components) - An unofficial third-party library of discord.py for discord components.
+- [woohyunjng/discord.py-components](https://github.com/woohyunjng/discord.py-components) - An unofficial third-party library of discord.py for discord components.
 - [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
 - [marcobackup/Proxier](https://github.com/marcobackup/Proxier) - Fast and easy-to-use proxy tool powered by python. 🐍
 - [iw4p/proxy-scraper](https://github.com/iw4p/proxy-scraper) - scrape proxies from more than 5 different sources and check which ones are still alive
