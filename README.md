@@ -391,7 +391,7 @@
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [danielcastelluccio/tompl](https://github.com/danielcastelluccio/tompl) - The Obvious Minimal Programming Language
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [edward-shen/bunbun](https://github.com/edward-shen/bunbun) - Self-hostable and configurable search/jump multiplexer service
 - [fluetlang/fluet](https://github.com/fluetlang/fluet) - The Fluet programming language.
