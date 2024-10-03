@@ -398,6 +398,7 @@
 
 ## Shell 
 
+- [geerlingguy/pi-cluster](https://github.com/geerlingguy/pi-cluster) - Raspberry Pi Cluster automation
 - [kkrruumm/void-install-script](https://github.com/kkrruumm/void-install-script) - Shell script installer for Void Linux
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)
