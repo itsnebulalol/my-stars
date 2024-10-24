@@ -238,6 +238,7 @@
 
 ## Jupyter Notebook 
 
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [llSourcell/ChatGPT_Trading_Bot](https://github.com/llSourcell/ChatGPT_Trading_Bot) - This is the code for the "ChatGPT Trading Bot" Video by Siraj Raval on Youtube
 
 ## Kotlin 
