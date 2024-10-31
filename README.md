@@ -442,7 +442,7 @@
 - [sourcelocation/pinanim](https://github.com/sourcelocation/pinanim) - Jailbreak iOS tweak: Animations for Pin Dots on Lock Screen
 - [EthanLipnik/Acrylic](https://github.com/EthanLipnik/Acrylic) - 
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
-- [evelyneee/ellekit](https://github.com/evelyneee/ellekit) - yet another tweak injector / tweak hooking library for darwin systems
+- [tealbathingsuit/ellekit](https://github.com/tealbathingsuit/ellekit) - yet another tweak injector / tweak hooking library for darwin systems
 - [sourcelocation/TrollTools](https://github.com/sourcelocation/TrollTools) - TrollTools - Revolutionizing iOS 15 customisation
 - [elihwyma/Pogo](https://github.com/elihwyma/Pogo) - 
 - [hbang/NewTerm](https://github.com/hbang/NewTerm) - NewTerm is a terminal emulator app with first-class iPhone, iPad, and Mac support.
@@ -454,7 +454,7 @@
 - [NSAntoine/Santander](https://github.com/NSAntoine/Santander) - Unsandboxed File System manager for iOS devices
 - [Sileo/Sileo](https://github.com/Sileo/Sileo) - A modern package manager for iOS 11 and higher.
 - [midnightchip/PermaFrost](https://github.com/midnightchip/PermaFrost) - 
-- [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
+- [tealbathingsuit/accord](https://github.com/tealbathingsuit/accord) - a discord client for modern macs
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
