@@ -401,6 +401,8 @@
 
 ## Shell 
 
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [geerlingguy/pi-cluster](https://github.com/geerlingguy/pi-cluster) - Raspberry Pi Cluster automation
 - [kkrruumm/void-install-script](https://github.com/kkrruumm/void-install-script) - Shell script installer for Void Linux
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
