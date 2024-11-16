@@ -266,6 +266,7 @@
 
 ## Nix 
 
+- [JoeyEamigh/nixos-superbird](https://github.com/JoeyEamigh/nixos-superbird) - Linux for YOUR Spotify Car Thing
 - [FlafyDev/combined-manager](https://github.com/FlafyDev/combined-manager) - NixOS personal configuration structure library
 - [n3oney/nixus](https://github.com/n3oney/nixus) - My NixOS configuration.
 
@@ -327,7 +328,6 @@
 
 ## Python 
 
-- [JoeyEamigh/nixos-superbird](https://github.com/JoeyEamigh/nixos-superbird) - Linux for YOUR Spotify Car Thing
 - [westsurname/scripts](https://github.com/westsurname/scripts) - 
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [devdetour/TelegramFUSE](https://github.com/devdetour/TelegramFUSE) - A FUSE filesystem written in Python for reading and writing files to and from Telegram.
