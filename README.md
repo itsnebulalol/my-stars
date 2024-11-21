@@ -220,7 +220,6 @@
 - [anmol098/anmolsingh.me](https://github.com/anmol098/anmolsingh.me) - This is my personal website here I keep updating changes which cannot be summed up in my Resume
 - [anmol098/npx_card](https://github.com/anmol098/npx_card) - use npx anmol to connect with me
 - [xrr2016/tata](https://github.com/xrr2016/tata) - 简洁的toast提示
-- [itsnebulalol/code-folder-generator](https://github.com/itsnebulalol/code-folder-generator) - 🖱 Simplify your life with Code Folder Generator. Automatically create a perfect environment based on pre-made templates.
 - [Geometrically/fabric-test-runner](https://github.com/Geometrically/fabric-test-runner) - A test runner for mods using the fabric framework allowing for Minecraft Mods to use CI/CD!
 - [rjstone/discord-webhook-notify](https://github.com/rjstone/discord-webhook-notify) - Sends a notification to discord using a webhook URL. It is written in JavaScript so it will work with windows, osx, and linux execution environments.
 - [powercord-org/powercord](https://github.com/powercord-org/powercord) - A lightweight @discord client mod focused on simplicity and performance.
@@ -425,7 +424,6 @@
 - [pop-os/pop-arm64](https://github.com/pop-os/pop-arm64) - Experimental scripts for building an Pop!_OS for ARM64 EFI platforms.
 - [RedPrez16/Asahi-Ubuntu](https://github.com/RedPrez16/Asahi-Ubuntu) - An attempt to run Ubuntu on M1 Macintoshes
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-- [itsnebulalol/seedbox](https://github.com/itsnebulalol/seedbox) - 📦 A collection of Docker Compose services to set up a seedbox and personal media server.
 - [duraki/SketchCrapp](https://github.com/duraki/SketchCrapp) - SketchCrapp - Crack your Sketch.app in seconds :) Supports MacOS Big Sur.
 - [pterodactyl-installer/pterodactyl-installer](https://github.com/pterodactyl-installer/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
 - [hwittenborn/Juice](https://github.com/hwittenborn/Juice) - A port of the Papirus icon theme to iOS
