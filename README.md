@@ -55,6 +55,7 @@
 
 ## C 
 
+- [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271 Please star NUT on GitHub, this helps with sponsorships!
 - [alfiecg24/TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
 - [opa334/ChOma](https://github.com/opa334/ChOma) - C library for manipulating MachO/FAT files and their code signatures
 - [SerotoninApp/Serotonin](https://github.com/SerotoninApp/Serotonin) - 
