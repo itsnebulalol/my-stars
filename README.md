@@ -327,6 +327,7 @@
 
 ## Python 
 
+- [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
 - [JoeyEamigh/nixos-superbird](https://github.com/JoeyEamigh/nixos-superbird) - Linux for YOUR Spotify Car Thing
 - [westsurname/scripts](https://github.com/westsurname/scripts) - 
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
